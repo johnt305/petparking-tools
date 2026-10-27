@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /dog-cost-calculator/embed/
 
 Sitemap: https://tools.petparking.com.au/sitemap.xml
+Sitemap: https://tools.petparking.com.au/dog-cost-calculator/sitemap-index.xml

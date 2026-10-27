@@ -1,0 +1,977 @@
+breed,slug,size,lifespan_years,state,acquire,stage,first_year_aud,annual_aud,lifetime_aud
+"Mixed breed, large (over 25 kg)",mixed-breed-large,large,12,nsw,buy,puppy,4197.90,2160.00,27957.90
+"Mixed breed, large (over 25 kg)",mixed-breed-large,large,12,vic,buy,puppy,4176.90,2223.00,28629.90
+"Mixed breed, large (over 25 kg)",mixed-breed-large,large,12,qld,buy,puppy,4162.40,2224.55,28632.45
+"Mixed breed, large (over 25 kg)",mixed-breed-large,large,12,sa,buy,puppy,4169.00,2215.10,28535.10
+"Mixed breed, large (over 25 kg)",mixed-breed-large,large,12,wa,buy,puppy,4213.90,2160.00,27973.90
+"Mixed breed, large (over 25 kg)",mixed-breed-large,large,12,tas,buy,puppy,4178.90,2223.00,28631.90
+"Mixed breed, large (over 25 kg)",mixed-breed-large,large,12,nt,buy,puppy,4178.90,2196.00,28334.90
+"Mixed breed, large (over 25 kg)",mixed-breed-large,large,12,act,buy,puppy,4245.45,2160.00,28005.45
+"Mixed breed, medium (over 10 kg to 25 kg)",mixed-breed-medium,medium,12,nsw,buy,puppy,4197.90,2160.00,27957.90
+"Mixed breed, medium (over 10 kg to 25 kg)",mixed-breed-medium,medium,12,vic,buy,puppy,4176.90,2223.00,28629.90
+"Mixed breed, medium (over 10 kg to 25 kg)",mixed-breed-medium,medium,12,qld,buy,puppy,4162.40,2224.55,28632.45
+"Mixed breed, medium (over 10 kg to 25 kg)",mixed-breed-medium,medium,12,sa,buy,puppy,4169.00,2215.10,28535.10
+"Mixed breed, medium (over 10 kg to 25 kg)",mixed-breed-medium,medium,12,wa,buy,puppy,4213.90,2160.00,27973.90
+"Mixed breed, medium (over 10 kg to 25 kg)",mixed-breed-medium,medium,12,tas,buy,puppy,4178.90,2223.00,28631.90
+"Mixed breed, medium (over 10 kg to 25 kg)",mixed-breed-medium,medium,12,nt,buy,puppy,4178.90,2196.00,28334.90
+"Mixed breed, medium (over 10 kg to 25 kg)",mixed-breed-medium,medium,12,act,buy,puppy,4245.45,2160.00,28005.45
+"Mixed breed, small (up to 10 kg)",mixed-breed-small,small,12,nsw,buy,puppy,4047.90,2160.00,27807.90
+"Mixed breed, small (up to 10 kg)",mixed-breed-small,small,12,vic,buy,puppy,4026.90,2223.00,28479.90
+"Mixed breed, small (up to 10 kg)",mixed-breed-small,small,12,qld,buy,puppy,4012.40,2224.55,28482.45
+"Mixed breed, small (up to 10 kg)",mixed-breed-small,small,12,sa,buy,puppy,4019.00,2215.10,28385.10
+"Mixed breed, small (up to 10 kg)",mixed-breed-small,small,12,wa,buy,puppy,4063.90,2160.00,27823.90
+"Mixed breed, small (up to 10 kg)",mixed-breed-small,small,12,tas,buy,puppy,4028.90,2223.00,28481.90
+"Mixed breed, small (up to 10 kg)",mixed-breed-small,small,12,nt,buy,puppy,4028.90,2196.00,28184.90
+"Mixed breed, small (up to 10 kg)",mixed-breed-small,small,12,act,buy,puppy,4095.45,2160.00,27855.45
+"Affenpinscher",affenpinscher,small,9.3,nsw,buy,puppy,4698.90,2160.00,22626.90
+"Affenpinscher",affenpinscher,small,9.3,vic,buy,puppy,4677.90,2223.00,23128.80
+"Affenpinscher",affenpinscher,small,9.3,qld,buy,puppy,4663.40,2224.55,23127.17
+"Affenpinscher",affenpinscher,small,9.3,sa,buy,puppy,4670.00,2215.10,23055.33
+"Affenpinscher",affenpinscher,small,9.3,wa,buy,puppy,4714.90,2160.00,22642.90
+"Affenpinscher",affenpinscher,small,9.3,tas,buy,puppy,4679.90,2223.00,23130.80
+"Affenpinscher",affenpinscher,small,9.3,nt,buy,puppy,4679.90,2196.00,22906.70
+"Affenpinscher",affenpinscher,small,9.3,act,buy,puppy,4746.45,2160.00,22674.45
+"Afghan Hound",afghan-hound,medium,11.1,nsw,buy,puppy,4848.90,2160.00,26664.90
+"Afghan Hound",afghan-hound,medium,11.1,vic,buy,puppy,4827.90,2223.00,27280.20
+"Afghan Hound",afghan-hound,medium,11.1,qld,buy,puppy,4813.40,2224.55,27281.36
+"Afghan Hound",afghan-hound,medium,11.1,sa,buy,puppy,4820.00,2215.10,27192.51
+"Afghan Hound",afghan-hound,medium,11.1,wa,buy,puppy,4864.90,2160.00,26680.90
+"Afghan Hound",afghan-hound,medium,11.1,tas,buy,puppy,4829.90,2223.00,27282.20
+"Afghan Hound",afghan-hound,medium,11.1,nt,buy,puppy,4829.90,2196.00,27009.50
+"Afghan Hound",afghan-hound,medium,11.1,act,buy,puppy,4896.45,2160.00,26712.45
+"Airedale Terrier",airedale-terrier,medium,12,nsw,buy,puppy,4698.90,2160.00,28458.90
+"Airedale Terrier",airedale-terrier,medium,12,vic,buy,puppy,4677.90,2223.00,29130.90
+"Airedale Terrier",airedale-terrier,medium,12,qld,buy,puppy,4663.40,2224.55,29133.45
+"Airedale Terrier",airedale-terrier,medium,12,sa,buy,puppy,4670.00,2215.10,29036.10
+"Airedale Terrier",airedale-terrier,medium,12,wa,buy,puppy,4714.90,2160.00,28474.90
+"Airedale Terrier",airedale-terrier,medium,12,tas,buy,puppy,4679.90,2223.00,29132.90
+"Airedale Terrier",airedale-terrier,medium,12,nt,buy,puppy,4679.90,2196.00,28835.90
+"Airedale Terrier",airedale-terrier,medium,12,act,buy,puppy,4746.45,2160.00,28506.45
+"Akita",akita,large,11.4,nsw,buy,puppy,4848.90,2160.00,27312.90
+"Akita",akita,large,11.4,vic,buy,puppy,4827.90,2223.00,27947.10
+"Akita",akita,large,11.4,qld,buy,puppy,4813.40,2224.55,27948.72
+"Akita",akita,large,11.4,sa,buy,puppy,4820.00,2215.10,27857.04
+"Akita",akita,large,11.4,wa,buy,puppy,4864.90,2160.00,27328.90
+"Akita",akita,large,11.4,tas,buy,puppy,4829.90,2223.00,27949.10
+"Akita",akita,large,11.4,nt,buy,puppy,4829.90,2196.00,27668.30
+"Akita",akita,large,11.4,act,buy,puppy,4896.45,2160.00,27360.45
+"Alaskan Malamute",alaskan-malamute,large,11.3,nsw,buy,puppy,4848.90,2160.00,27096.90
+"Alaskan Malamute",alaskan-malamute,large,11.3,vic,buy,puppy,4827.90,2223.00,27724.80
+"Alaskan Malamute",alaskan-malamute,large,11.3,qld,buy,puppy,4813.40,2224.55,27726.27
+"Alaskan Malamute",alaskan-malamute,large,11.3,sa,buy,puppy,4820.00,2215.10,27635.53
+"Alaskan Malamute",alaskan-malamute,large,11.3,wa,buy,puppy,4864.90,2160.00,27112.90
+"Alaskan Malamute",alaskan-malamute,large,11.3,tas,buy,puppy,4829.90,2223.00,27726.80
+"Alaskan Malamute",alaskan-malamute,large,11.3,nt,buy,puppy,4829.90,2196.00,27448.70
+"Alaskan Malamute",alaskan-malamute,large,11.3,act,buy,puppy,4896.45,2160.00,27144.45
+"American Staffordshire Terrier",american-staffordshire-terrier,large,12.5,nsw,buy,puppy,4848.90,2160.00,29688.90
+"American Staffordshire Terrier",american-staffordshire-terrier,large,12.5,vic,buy,puppy,4827.90,2223.00,30392.40
+"American Staffordshire Terrier",american-staffordshire-terrier,large,12.5,qld,buy,puppy,4813.40,2224.55,30395.73
+"American Staffordshire Terrier",american-staffordshire-terrier,large,12.5,sa,buy,puppy,4820.00,2215.10,30293.65
+"American Staffordshire Terrier",american-staffordshire-terrier,large,12.5,wa,buy,puppy,4864.90,2160.00,29704.90
+"American Staffordshire Terrier",american-staffordshire-terrier,large,12.5,tas,buy,puppy,4829.90,2223.00,30394.40
+"American Staffordshire Terrier",american-staffordshire-terrier,large,12.5,nt,buy,puppy,4829.90,2196.00,30083.90
+"American Staffordshire Terrier",american-staffordshire-terrier,large,12.5,act,buy,puppy,4896.45,2160.00,29736.45
+"Anatolian Shepherd Dog",anatolian-shepherd-dog,giant,10.1,nsw,buy,puppy,4848.90,2160.00,24504.90
+"Anatolian Shepherd Dog",anatolian-shepherd-dog,giant,10.1,vic,buy,puppy,4827.90,2223.00,25057.20
+"Anatolian Shepherd Dog",anatolian-shepherd-dog,giant,10.1,qld,buy,puppy,4813.40,2224.55,25056.81
+"Anatolian Shepherd Dog",anatolian-shepherd-dog,giant,10.1,sa,buy,puppy,4820.00,2215.10,24977.41
+"Anatolian Shepherd Dog",anatolian-shepherd-dog,giant,10.1,wa,buy,puppy,4864.90,2160.00,24520.90
+"Anatolian Shepherd Dog",anatolian-shepherd-dog,giant,10.1,tas,buy,puppy,4829.90,2223.00,25059.20
+"Anatolian Shepherd Dog",anatolian-shepherd-dog,giant,10.1,nt,buy,puppy,4829.90,2196.00,24813.50
+"Anatolian Shepherd Dog",anatolian-shepherd-dog,giant,10.1,act,buy,puppy,4896.45,2160.00,24552.45
+"Australian Cattle Dog",australian-cattle-dog,medium,14,nsw,buy,puppy,4698.90,2160.00,32778.90
+"Australian Cattle Dog",australian-cattle-dog,medium,14,vic,buy,puppy,4677.90,2223.00,33576.90
+"Australian Cattle Dog",australian-cattle-dog,medium,14,qld,buy,puppy,4663.40,2224.55,33582.55
+"Australian Cattle Dog",australian-cattle-dog,medium,14,sa,buy,puppy,4670.00,2215.10,33466.30
+"Australian Cattle Dog",australian-cattle-dog,medium,14,wa,buy,puppy,4714.90,2160.00,32794.90
+"Australian Cattle Dog",australian-cattle-dog,medium,14,tas,buy,puppy,4679.90,2223.00,33578.90
+"Australian Cattle Dog",australian-cattle-dog,medium,14,nt,buy,puppy,4679.90,2196.00,33227.90
+"Australian Cattle Dog",australian-cattle-dog,medium,14,act,buy,puppy,4746.45,2160.00,32826.45
+"Australian Kelpie",australian-kelpie,medium,12,nsw,buy,puppy,4698.90,2160.00,28458.90
+"Australian Kelpie",australian-kelpie,medium,12,vic,buy,puppy,4677.90,2223.00,29130.90
+"Australian Kelpie",australian-kelpie,medium,12,qld,buy,puppy,4663.40,2224.55,29133.45
+"Australian Kelpie",australian-kelpie,medium,12,sa,buy,puppy,4670.00,2215.10,29036.10
+"Australian Kelpie",australian-kelpie,medium,12,wa,buy,puppy,4714.90,2160.00,28474.90
+"Australian Kelpie",australian-kelpie,medium,12,tas,buy,puppy,4679.90,2223.00,29132.90
+"Australian Kelpie",australian-kelpie,medium,12,nt,buy,puppy,4679.90,2196.00,28835.90
+"Australian Kelpie",australian-kelpie,medium,12,act,buy,puppy,4746.45,2160.00,28506.45
+"Australian Shepherd",australian-shepherd,medium,13.7,nsw,buy,puppy,4848.90,2160.00,32280.90
+"Australian Shepherd",australian-shepherd,medium,13.7,vic,buy,puppy,4827.90,2223.00,33060.00
+"Australian Shepherd",australian-shepherd,medium,13.7,qld,buy,puppy,4813.40,2224.55,33065.19
+"Australian Shepherd",australian-shepherd,medium,13.7,sa,buy,puppy,4820.00,2215.10,32951.77
+"Australian Shepherd",australian-shepherd,medium,13.7,wa,buy,puppy,4864.90,2160.00,32296.90
+"Australian Shepherd",australian-shepherd,medium,13.7,tas,buy,puppy,4829.90,2223.00,33062.00
+"Australian Shepherd",australian-shepherd,medium,13.7,nt,buy,puppy,4829.90,2196.00,32719.10
+"Australian Shepherd",australian-shepherd,medium,13.7,act,buy,puppy,4896.45,2160.00,32328.45
+"Australian Terrier",australian-terrier,small,12.7,nsw,buy,puppy,4698.90,2160.00,29970.90
+"Australian Terrier",australian-terrier,small,12.7,vic,buy,puppy,4677.90,2223.00,30687.00
+"Australian Terrier",australian-terrier,small,12.7,qld,buy,puppy,4663.40,2224.55,30690.64
+"Australian Terrier",australian-terrier,small,12.7,sa,buy,puppy,4670.00,2215.10,30586.67
+"Australian Terrier",australian-terrier,small,12.7,wa,buy,puppy,4714.90,2160.00,29986.90
+"Australian Terrier",australian-terrier,small,12.7,tas,buy,puppy,4679.90,2223.00,30689.00
+"Australian Terrier",australian-terrier,small,12.7,nt,buy,puppy,4679.90,2196.00,30373.10
+"Australian Terrier",australian-terrier,small,12.7,act,buy,puppy,4746.45,2160.00,30018.45
+"Basenji",basenji,medium,12.1,nsw,buy,puppy,4698.90,2160.00,28674.90
+"Basenji",basenji,medium,12.1,vic,buy,puppy,4677.90,2223.00,29353.20
+"Basenji",basenji,medium,12.1,qld,buy,puppy,4663.40,2224.55,29355.91
+"Basenji",basenji,medium,12.1,sa,buy,puppy,4670.00,2215.10,29257.61
+"Basenji",basenji,medium,12.1,wa,buy,puppy,4714.90,2160.00,28690.90
+"Basenji",basenji,medium,12.1,tas,buy,puppy,4679.90,2223.00,29355.20
+"Basenji",basenji,medium,12.1,nt,buy,puppy,4679.90,2196.00,29055.50
+"Basenji",basenji,medium,12.1,act,buy,puppy,4746.45,2160.00,28722.45
+"Basset Hound",basset-hound,large,12.5,nsw,buy,puppy,4848.90,2160.00,29688.90
+"Basset Hound",basset-hound,large,12.5,vic,buy,puppy,4827.90,2223.00,30392.40
+"Basset Hound",basset-hound,large,12.5,qld,buy,puppy,4813.40,2224.55,30395.73
+"Basset Hound",basset-hound,large,12.5,sa,buy,puppy,4820.00,2215.10,30293.65
+"Basset Hound",basset-hound,large,12.5,wa,buy,puppy,4864.90,2160.00,29704.90
+"Basset Hound",basset-hound,large,12.5,tas,buy,puppy,4829.90,2223.00,30394.40
+"Basset Hound",basset-hound,large,12.5,nt,buy,puppy,4829.90,2196.00,30083.90
+"Basset Hound",basset-hound,large,12.5,act,buy,puppy,4896.45,2160.00,29736.45
+"Beagle",beagle,medium,12.5,nsw,buy,puppy,4698.90,2160.00,29538.90
+"Beagle",beagle,medium,12.5,vic,buy,puppy,4677.90,2223.00,30242.40
+"Beagle",beagle,medium,12.5,qld,buy,puppy,4663.40,2224.55,30245.73
+"Beagle",beagle,medium,12.5,sa,buy,puppy,4670.00,2215.10,30143.65
+"Beagle",beagle,medium,12.5,wa,buy,puppy,4714.90,2160.00,29554.90
+"Beagle",beagle,medium,12.5,tas,buy,puppy,4679.90,2223.00,30244.40
+"Beagle",beagle,medium,12.5,nt,buy,puppy,4679.90,2196.00,29933.90
+"Beagle",beagle,medium,12.5,act,buy,puppy,4746.45,2160.00,29586.45
+"Bearded Collie",bearded-collie,medium,13.9,nsw,buy,puppy,4848.90,2160.00,32712.90
+"Bearded Collie",bearded-collie,medium,13.9,vic,buy,puppy,4827.90,2223.00,33504.60
+"Bearded Collie",bearded-collie,medium,13.9,qld,buy,puppy,4813.40,2224.55,33510.10
+"Bearded Collie",bearded-collie,medium,13.9,sa,buy,puppy,4820.00,2215.10,33394.79
+"Bearded Collie",bearded-collie,medium,13.9,wa,buy,puppy,4864.90,2160.00,32728.90
+"Bearded Collie",bearded-collie,medium,13.9,tas,buy,puppy,4829.90,2223.00,33506.60
+"Bearded Collie",bearded-collie,medium,13.9,nt,buy,puppy,4829.90,2196.00,33158.30
+"Bearded Collie",bearded-collie,medium,13.9,act,buy,puppy,4896.45,2160.00,32760.45
+"Bedlington Terrier",bedlington-terrier,small,13.7,nsw,buy,puppy,4698.90,2160.00,32130.90
+"Bedlington Terrier",bedlington-terrier,small,13.7,vic,buy,puppy,4677.90,2223.00,32910.00
+"Bedlington Terrier",bedlington-terrier,small,13.7,qld,buy,puppy,4663.40,2224.55,32915.19
+"Bedlington Terrier",bedlington-terrier,small,13.7,sa,buy,puppy,4670.00,2215.10,32801.77
+"Bedlington Terrier",bedlington-terrier,small,13.7,wa,buy,puppy,4714.90,2160.00,32146.90
+"Bedlington Terrier",bedlington-terrier,small,13.7,tas,buy,puppy,4679.90,2223.00,32912.00
+"Bedlington Terrier",bedlington-terrier,small,13.7,nt,buy,puppy,4679.90,2196.00,32569.10
+"Bedlington Terrier",bedlington-terrier,small,13.7,act,buy,puppy,4746.45,2160.00,32178.45
+"Belgian Malinois",belgian-malinois,medium,12,nsw,buy,puppy,4848.90,2160.00,28608.90
+"Belgian Malinois",belgian-malinois,medium,12,vic,buy,puppy,4827.90,2223.00,29280.90
+"Belgian Malinois",belgian-malinois,medium,12,qld,buy,puppy,4813.40,2224.55,29283.45
+"Belgian Malinois",belgian-malinois,medium,12,sa,buy,puppy,4820.00,2215.10,29186.10
+"Belgian Malinois",belgian-malinois,medium,12,wa,buy,puppy,4864.90,2160.00,28624.90
+"Belgian Malinois",belgian-malinois,medium,12,tas,buy,puppy,4829.90,2223.00,29282.90
+"Belgian Malinois",belgian-malinois,medium,12,nt,buy,puppy,4829.90,2196.00,28985.90
+"Belgian Malinois",belgian-malinois,medium,12,act,buy,puppy,4896.45,2160.00,28656.45
+"Belgian Tervuren",belgian-tervuren,medium,13.8,nsw,buy,puppy,4848.90,2160.00,32496.90
+"Belgian Tervuren",belgian-tervuren,medium,13.8,vic,buy,puppy,4827.90,2223.00,33282.30
+"Belgian Tervuren",belgian-tervuren,medium,13.8,qld,buy,puppy,4813.40,2224.55,33287.64
+"Belgian Tervuren",belgian-tervuren,medium,13.8,sa,buy,puppy,4820.00,2215.10,33173.28
+"Belgian Tervuren",belgian-tervuren,medium,13.8,wa,buy,puppy,4864.90,2160.00,32512.90
+"Belgian Tervuren",belgian-tervuren,medium,13.8,tas,buy,puppy,4829.90,2223.00,33284.30
+"Belgian Tervuren",belgian-tervuren,medium,13.8,nt,buy,puppy,4829.90,2196.00,32938.70
+"Belgian Tervuren",belgian-tervuren,medium,13.8,act,buy,puppy,4896.45,2160.00,32544.45
+"Bernese Mountain Dog",bernese-mountain-dog,large,10.1,nsw,buy,puppy,4848.90,2160.00,24504.90
+"Bernese Mountain Dog",bernese-mountain-dog,large,10.1,vic,buy,puppy,4827.90,2223.00,25057.20
+"Bernese Mountain Dog",bernese-mountain-dog,large,10.1,qld,buy,puppy,4813.40,2224.55,25056.81
+"Bernese Mountain Dog",bernese-mountain-dog,large,10.1,sa,buy,puppy,4820.00,2215.10,24977.41
+"Bernese Mountain Dog",bernese-mountain-dog,large,10.1,wa,buy,puppy,4864.90,2160.00,24520.90
+"Bernese Mountain Dog",bernese-mountain-dog,large,10.1,tas,buy,puppy,4829.90,2223.00,25059.20
+"Bernese Mountain Dog",bernese-mountain-dog,large,10.1,nt,buy,puppy,4829.90,2196.00,24813.50
+"Bernese Mountain Dog",bernese-mountain-dog,large,10.1,act,buy,puppy,4896.45,2160.00,24552.45
+"Bichon Frise",bichon-frise,small,12.5,nsw,buy,puppy,4698.90,2160.00,29538.90
+"Bichon Frise",bichon-frise,small,12.5,vic,buy,puppy,4677.90,2223.00,30242.40
+"Bichon Frise",bichon-frise,small,12.5,qld,buy,puppy,4663.40,2224.55,30245.73
+"Bichon Frise",bichon-frise,small,12.5,sa,buy,puppy,4670.00,2215.10,30143.65
+"Bichon Frise",bichon-frise,small,12.5,wa,buy,puppy,4714.90,2160.00,29554.90
+"Bichon Frise",bichon-frise,small,12.5,tas,buy,puppy,4679.90,2223.00,30244.40
+"Bichon Frise",bichon-frise,small,12.5,nt,buy,puppy,4679.90,2196.00,29933.90
+"Bichon Frise",bichon-frise,small,12.5,act,buy,puppy,4746.45,2160.00,29586.45
+"Bloodhound",bloodhound,giant,9.3,nsw,buy,puppy,4848.90,2160.00,22776.90
+"Bloodhound",bloodhound,giant,9.3,vic,buy,puppy,4827.90,2223.00,23278.80
+"Bloodhound",bloodhound,giant,9.3,qld,buy,puppy,4813.40,2224.55,23277.17
+"Bloodhound",bloodhound,giant,9.3,sa,buy,puppy,4820.00,2215.10,23205.33
+"Bloodhound",bloodhound,giant,9.3,wa,buy,puppy,4864.90,2160.00,22792.90
+"Bloodhound",bloodhound,giant,9.3,tas,buy,puppy,4829.90,2223.00,23280.80
+"Bloodhound",bloodhound,giant,9.3,nt,buy,puppy,4829.90,2196.00,23056.70
+"Bloodhound",bloodhound,giant,9.3,act,buy,puppy,4896.45,2160.00,22824.45
+"Border Collie",border-collie,medium,13.1,nsw,buy,puppy,4698.90,2160.00,30834.90
+"Border Collie",border-collie,medium,13.1,vic,buy,puppy,4677.90,2223.00,31576.20
+"Border Collie",border-collie,medium,13.1,qld,buy,puppy,4663.40,2224.55,31580.46
+"Border Collie",border-collie,medium,13.1,sa,buy,puppy,4670.00,2215.10,31472.71
+"Border Collie",border-collie,medium,13.1,wa,buy,puppy,4714.90,2160.00,30850.90
+"Border Collie",border-collie,medium,13.1,tas,buy,puppy,4679.90,2223.00,31578.20
+"Border Collie",border-collie,medium,13.1,nt,buy,puppy,4679.90,2196.00,31251.50
+"Border Collie",border-collie,medium,13.1,act,buy,puppy,4746.45,2160.00,30882.45
+"Border Terrier",border-terrier,small,14.2,nsw,buy,puppy,4698.90,2160.00,33210.90
+"Border Terrier",border-terrier,small,14.2,vic,buy,puppy,4677.90,2223.00,34021.50
+"Border Terrier",border-terrier,small,14.2,qld,buy,puppy,4663.40,2224.55,34027.46
+"Border Terrier",border-terrier,small,14.2,sa,buy,puppy,4670.00,2215.10,33909.32
+"Border Terrier",border-terrier,small,14.2,wa,buy,puppy,4714.90,2160.00,33226.90
+"Border Terrier",border-terrier,small,14.2,tas,buy,puppy,4679.90,2223.00,34023.50
+"Border Terrier",border-terrier,small,14.2,nt,buy,puppy,4679.90,2196.00,33667.10
+"Border Terrier",border-terrier,small,14.2,act,buy,puppy,4746.45,2160.00,33258.45
+"Borzoi",borzoi,large,12,nsw,buy,puppy,4848.90,2160.00,28608.90
+"Borzoi",borzoi,large,12,vic,buy,puppy,4827.90,2223.00,29280.90
+"Borzoi",borzoi,large,12,qld,buy,puppy,4813.40,2224.55,29283.45
+"Borzoi",borzoi,large,12,sa,buy,puppy,4820.00,2215.10,29186.10
+"Borzoi",borzoi,large,12,wa,buy,puppy,4864.90,2160.00,28624.90
+"Borzoi",borzoi,large,12,tas,buy,puppy,4829.90,2223.00,29282.90
+"Borzoi",borzoi,large,12,nt,buy,puppy,4829.90,2196.00,28985.90
+"Borzoi",borzoi,large,12,act,buy,puppy,4896.45,2160.00,28656.45
+"Boston Terrier",boston-terrier,small,11.8,nsw,buy,puppy,4698.90,2160.00,28026.90
+"Boston Terrier",boston-terrier,small,11.8,vic,buy,puppy,4677.90,2223.00,28686.30
+"Boston Terrier",boston-terrier,small,11.8,qld,buy,puppy,4663.40,2224.55,28688.54
+"Boston Terrier",boston-terrier,small,11.8,sa,buy,puppy,4670.00,2215.10,28593.08
+"Boston Terrier",boston-terrier,small,11.8,wa,buy,puppy,4714.90,2160.00,28042.90
+"Boston Terrier",boston-terrier,small,11.8,tas,buy,puppy,4679.90,2223.00,28688.30
+"Boston Terrier",boston-terrier,small,11.8,nt,buy,puppy,4679.90,2196.00,28396.70
+"Boston Terrier",boston-terrier,small,11.8,act,buy,puppy,4746.45,2160.00,28074.45
+"Bouvier des Flandres",bouvier-des-flandres,large,11.3,nsw,buy,puppy,4848.90,2160.00,27096.90
+"Bouvier des Flandres",bouvier-des-flandres,large,11.3,vic,buy,puppy,4827.90,2223.00,27724.80
+"Bouvier des Flandres",bouvier-des-flandres,large,11.3,qld,buy,puppy,4813.40,2224.55,27726.27
+"Bouvier des Flandres",bouvier-des-flandres,large,11.3,sa,buy,puppy,4820.00,2215.10,27635.53
+"Bouvier des Flandres",bouvier-des-flandres,large,11.3,wa,buy,puppy,4864.90,2160.00,27112.90
+"Bouvier des Flandres",bouvier-des-flandres,large,11.3,tas,buy,puppy,4829.90,2223.00,27726.80
+"Bouvier des Flandres",bouvier-des-flandres,large,11.3,nt,buy,puppy,4829.90,2196.00,27448.70
+"Bouvier des Flandres",bouvier-des-flandres,large,11.3,act,buy,puppy,4896.45,2160.00,27144.45
+"Boxer",boxer,large,11.3,nsw,buy,puppy,4848.90,2160.00,27096.90
+"Boxer",boxer,large,11.3,vic,buy,puppy,4827.90,2223.00,27724.80
+"Boxer",boxer,large,11.3,qld,buy,puppy,4813.40,2224.55,27726.27
+"Boxer",boxer,large,11.3,sa,buy,puppy,4820.00,2215.10,27635.53
+"Boxer",boxer,large,11.3,wa,buy,puppy,4864.90,2160.00,27112.90
+"Boxer",boxer,large,11.3,tas,buy,puppy,4829.90,2223.00,27726.80
+"Boxer",boxer,large,11.3,nt,buy,puppy,4829.90,2196.00,27448.70
+"Boxer",boxer,large,11.3,act,buy,puppy,4896.45,2160.00,27144.45
+"Bull Arab",bull-arab,large,11.9,nsw,buy,puppy,4848.90,2160.00,28392.90
+"Bull Arab",bull-arab,large,11.9,vic,buy,puppy,4827.90,2223.00,29058.60
+"Bull Arab",bull-arab,large,11.9,qld,buy,puppy,4813.40,2224.55,29061.00
+"Bull Arab",bull-arab,large,11.9,sa,buy,puppy,4820.00,2215.10,28964.59
+"Bull Arab",bull-arab,large,11.9,wa,buy,puppy,4864.90,2160.00,28408.90
+"Bull Arab",bull-arab,large,11.9,tas,buy,puppy,4829.90,2223.00,29060.60
+"Bull Arab",bull-arab,large,11.9,nt,buy,puppy,4829.90,2196.00,28766.30
+"Bull Arab",bull-arab,large,11.9,act,buy,puppy,4896.45,2160.00,28440.45
+"Bull Terrier",bull-terrier,medium,12,nsw,buy,puppy,4848.90,2160.00,28608.90
+"Bull Terrier",bull-terrier,medium,12,vic,buy,puppy,4827.90,2223.00,29280.90
+"Bull Terrier",bull-terrier,medium,12,qld,buy,puppy,4813.40,2224.55,29283.45
+"Bull Terrier",bull-terrier,medium,12,sa,buy,puppy,4820.00,2215.10,29186.10
+"Bull Terrier",bull-terrier,medium,12,wa,buy,puppy,4864.90,2160.00,28624.90
+"Bull Terrier",bull-terrier,medium,12,tas,buy,puppy,4829.90,2223.00,29282.90
+"Bull Terrier",bull-terrier,medium,12,nt,buy,puppy,4829.90,2196.00,28985.90
+"Bull Terrier",bull-terrier,medium,12,act,buy,puppy,4896.45,2160.00,28656.45
+"Bulldog",bulldog,medium,9.8,nsw,buy,puppy,4848.90,2160.00,23856.90
+"Bulldog",bulldog,medium,9.8,vic,buy,puppy,4827.90,2223.00,24390.30
+"Bulldog",bulldog,medium,9.8,qld,buy,puppy,4813.40,2224.55,24389.44
+"Bulldog",bulldog,medium,9.8,sa,buy,puppy,4820.00,2215.10,24312.88
+"Bulldog",bulldog,medium,9.8,wa,buy,puppy,4864.90,2160.00,23872.90
+"Bulldog",bulldog,medium,9.8,tas,buy,puppy,4829.90,2223.00,24392.30
+"Bulldog",bulldog,medium,9.8,nt,buy,puppy,4829.90,2196.00,24154.70
+"Bulldog",bulldog,medium,9.8,act,buy,puppy,4896.45,2160.00,23904.45
+"Bullmastiff",bullmastiff,giant,10.2,nsw,buy,puppy,4848.90,2160.00,24720.90
+"Bullmastiff",bullmastiff,giant,10.2,vic,buy,puppy,4827.90,2223.00,25279.50
+"Bullmastiff",bullmastiff,giant,10.2,qld,buy,puppy,4813.40,2224.55,25279.26
+"Bullmastiff",bullmastiff,giant,10.2,sa,buy,puppy,4820.00,2215.10,25198.92
+"Bullmastiff",bullmastiff,giant,10.2,wa,buy,puppy,4864.90,2160.00,24736.90
+"Bullmastiff",bullmastiff,giant,10.2,tas,buy,puppy,4829.90,2223.00,25281.50
+"Bullmastiff",bullmastiff,giant,10.2,nt,buy,puppy,4829.90,2196.00,25033.10
+"Bullmastiff",bullmastiff,giant,10.2,act,buy,puppy,4896.45,2160.00,24768.45
+"Cairn Terrier",cairn-terrier,small,14,nsw,buy,puppy,4698.90,2160.00,32778.90
+"Cairn Terrier",cairn-terrier,small,14,vic,buy,puppy,4677.90,2223.00,33576.90
+"Cairn Terrier",cairn-terrier,small,14,qld,buy,puppy,4663.40,2224.55,33582.55
+"Cairn Terrier",cairn-terrier,small,14,sa,buy,puppy,4670.00,2215.10,33466.30
+"Cairn Terrier",cairn-terrier,small,14,wa,buy,puppy,4714.90,2160.00,32794.90
+"Cairn Terrier",cairn-terrier,small,14,tas,buy,puppy,4679.90,2223.00,33578.90
+"Cairn Terrier",cairn-terrier,small,14,nt,buy,puppy,4679.90,2196.00,33227.90
+"Cairn Terrier",cairn-terrier,small,14,act,buy,puppy,4746.45,2160.00,32826.45
+"Cane Corso",cane-corso,large,8.1,nsw,buy,puppy,4848.90,2160.00,20184.90
+"Cane Corso",cane-corso,large,8.1,vic,buy,puppy,4827.90,2223.00,20611.20
+"Cane Corso",cane-corso,large,8.1,qld,buy,puppy,4813.40,2224.55,20607.71
+"Cane Corso",cane-corso,large,8.1,sa,buy,puppy,4820.00,2215.10,20547.21
+"Cane Corso",cane-corso,large,8.1,wa,buy,puppy,4864.90,2160.00,20200.90
+"Cane Corso",cane-corso,large,8.1,tas,buy,puppy,4829.90,2223.00,20613.20
+"Cane Corso",cane-corso,large,8.1,nt,buy,puppy,4829.90,2196.00,20421.50
+"Cane Corso",cane-corso,large,8.1,act,buy,puppy,4896.45,2160.00,20232.45
+"Cavalier King Charles Spaniel",cavalier-king-charles-spaniel,small,11.8,nsw,buy,puppy,4698.90,2160.00,28026.90
+"Cavalier King Charles Spaniel",cavalier-king-charles-spaniel,small,11.8,vic,buy,puppy,4677.90,2223.00,28686.30
+"Cavalier King Charles Spaniel",cavalier-king-charles-spaniel,small,11.8,qld,buy,puppy,4663.40,2224.55,28688.54
+"Cavalier King Charles Spaniel",cavalier-king-charles-spaniel,small,11.8,sa,buy,puppy,4670.00,2215.10,28593.08
+"Cavalier King Charles Spaniel",cavalier-king-charles-spaniel,small,11.8,wa,buy,puppy,4714.90,2160.00,28042.90
+"Cavalier King Charles Spaniel",cavalier-king-charles-spaniel,small,11.8,tas,buy,puppy,4679.90,2223.00,28688.30
+"Cavalier King Charles Spaniel",cavalier-king-charles-spaniel,small,11.8,nt,buy,puppy,4679.90,2196.00,28396.70
+"Cavalier King Charles Spaniel",cavalier-king-charles-spaniel,small,11.8,act,buy,puppy,4746.45,2160.00,28074.45
+"Cavoodle",cavoodle,small,12,nsw,buy,puppy,4940.90,2160.00,28700.90
+"Cavoodle",cavoodle,small,12,vic,buy,puppy,4919.90,2223.00,29372.90
+"Cavoodle",cavoodle,small,12,qld,buy,puppy,4905.40,2224.55,29375.45
+"Cavoodle",cavoodle,small,12,sa,buy,puppy,4912.00,2215.10,29278.10
+"Cavoodle",cavoodle,small,12,wa,buy,puppy,4956.90,2160.00,28716.90
+"Cavoodle",cavoodle,small,12,tas,buy,puppy,4921.90,2223.00,29374.90
+"Cavoodle",cavoodle,small,12,nt,buy,puppy,4921.90,2196.00,29077.90
+"Cavoodle",cavoodle,small,12,act,buy,puppy,4988.45,2160.00,28748.45
+"Chesapeake Bay Retriever",chesapeake-bay-retriever,large,11.6,nsw,buy,puppy,4848.90,2160.00,27744.90
+"Chesapeake Bay Retriever",chesapeake-bay-retriever,large,11.6,vic,buy,puppy,4827.90,2223.00,28391.70
+"Chesapeake Bay Retriever",chesapeake-bay-retriever,large,11.6,qld,buy,puppy,4813.40,2224.55,28393.63
+"Chesapeake Bay Retriever",chesapeake-bay-retriever,large,11.6,sa,buy,puppy,4820.00,2215.10,28300.06
+"Chesapeake Bay Retriever",chesapeake-bay-retriever,large,11.6,wa,buy,puppy,4864.90,2160.00,27760.90
+"Chesapeake Bay Retriever",chesapeake-bay-retriever,large,11.6,tas,buy,puppy,4829.90,2223.00,28393.70
+"Chesapeake Bay Retriever",chesapeake-bay-retriever,large,11.6,nt,buy,puppy,4829.90,2196.00,28107.50
+"Chesapeake Bay Retriever",chesapeake-bay-retriever,large,11.6,act,buy,puppy,4896.45,2160.00,27792.45
+"Chihuahua",chihuahua,small,11.8,nsw,buy,puppy,4698.90,2160.00,28026.90
+"Chihuahua",chihuahua,small,11.8,vic,buy,puppy,4677.90,2223.00,28686.30
+"Chihuahua",chihuahua,small,11.8,qld,buy,puppy,4663.40,2224.55,28688.54
+"Chihuahua",chihuahua,small,11.8,sa,buy,puppy,4670.00,2215.10,28593.08
+"Chihuahua",chihuahua,small,11.8,wa,buy,puppy,4714.90,2160.00,28042.90
+"Chihuahua",chihuahua,small,11.8,tas,buy,puppy,4679.90,2223.00,28688.30
+"Chihuahua",chihuahua,small,11.8,nt,buy,puppy,4679.90,2196.00,28396.70
+"Chihuahua",chihuahua,small,11.8,act,buy,puppy,4746.45,2160.00,28074.45
+"Chinese Crested",chinese-crested,small,13.4,nsw,buy,puppy,4698.90,2160.00,31482.90
+"Chinese Crested",chinese-crested,small,13.4,vic,buy,puppy,4677.90,2223.00,32243.10
+"Chinese Crested",chinese-crested,small,13.4,qld,buy,puppy,4663.40,2224.55,32247.82
+"Chinese Crested",chinese-crested,small,13.4,sa,buy,puppy,4670.00,2215.10,32137.24
+"Chinese Crested",chinese-crested,small,13.4,wa,buy,puppy,4714.90,2160.00,31498.90
+"Chinese Crested",chinese-crested,small,13.4,tas,buy,puppy,4679.90,2223.00,32245.10
+"Chinese Crested",chinese-crested,small,13.4,nt,buy,puppy,4679.90,2196.00,31910.30
+"Chinese Crested",chinese-crested,small,13.4,act,buy,puppy,4746.45,2160.00,31530.45
+"Chow Chow",chow-chow,large,12.1,nsw,buy,puppy,4848.90,2160.00,28824.90
+"Chow Chow",chow-chow,large,12.1,vic,buy,puppy,4827.90,2223.00,29503.20
+"Chow Chow",chow-chow,large,12.1,qld,buy,puppy,4813.40,2224.55,29505.91
+"Chow Chow",chow-chow,large,12.1,sa,buy,puppy,4820.00,2215.10,29407.61
+"Chow Chow",chow-chow,large,12.1,wa,buy,puppy,4864.90,2160.00,28840.90
+"Chow Chow",chow-chow,large,12.1,tas,buy,puppy,4829.90,2223.00,29505.20
+"Chow Chow",chow-chow,large,12.1,nt,buy,puppy,4829.90,2196.00,29205.50
+"Chow Chow",chow-chow,large,12.1,act,buy,puppy,4896.45,2160.00,28872.45
+"Cocker Spaniel (English)",cocker-spaniel-english,medium,13.3,nsw,buy,puppy,4698.90,2160.00,31266.90
+"Cocker Spaniel (English)",cocker-spaniel-english,medium,13.3,vic,buy,puppy,4677.90,2223.00,32020.80
+"Cocker Spaniel (English)",cocker-spaniel-english,medium,13.3,qld,buy,puppy,4663.40,2224.55,32025.37
+"Cocker Spaniel (English)",cocker-spaniel-english,medium,13.3,sa,buy,puppy,4670.00,2215.10,31915.73
+"Cocker Spaniel (English)",cocker-spaniel-english,medium,13.3,wa,buy,puppy,4714.90,2160.00,31282.90
+"Cocker Spaniel (English)",cocker-spaniel-english,medium,13.3,tas,buy,puppy,4679.90,2223.00,32022.80
+"Cocker Spaniel (English)",cocker-spaniel-english,medium,13.3,nt,buy,puppy,4679.90,2196.00,31690.70
+"Cocker Spaniel (English)",cocker-spaniel-english,medium,13.3,act,buy,puppy,4746.45,2160.00,31314.45
+"Collie (Rough)",collie-rough,large,13.3,nsw,buy,puppy,4848.90,2160.00,31416.90
+"Collie (Rough)",collie-rough,large,13.3,vic,buy,puppy,4827.90,2223.00,32170.80
+"Collie (Rough)",collie-rough,large,13.3,qld,buy,puppy,4813.40,2224.55,32175.37
+"Collie (Rough)",collie-rough,large,13.3,sa,buy,puppy,4820.00,2215.10,32065.73
+"Collie (Rough)",collie-rough,large,13.3,wa,buy,puppy,4864.90,2160.00,31432.90
+"Collie (Rough)",collie-rough,large,13.3,tas,buy,puppy,4829.90,2223.00,32172.80
+"Collie (Rough)",collie-rough,large,13.3,nt,buy,puppy,4829.90,2196.00,31840.70
+"Collie (Rough)",collie-rough,large,13.3,act,buy,puppy,4896.45,2160.00,31464.45
+"Dachshund",dachshund,medium,13.2,nsw,buy,puppy,4698.90,2160.00,31050.90
+"Dachshund",dachshund,medium,13.2,vic,buy,puppy,4677.90,2223.00,31798.50
+"Dachshund",dachshund,medium,13.2,qld,buy,puppy,4663.40,2224.55,31802.91
+"Dachshund",dachshund,medium,13.2,sa,buy,puppy,4670.00,2215.10,31694.22
+"Dachshund",dachshund,medium,13.2,wa,buy,puppy,4714.90,2160.00,31066.90
+"Dachshund",dachshund,medium,13.2,tas,buy,puppy,4679.90,2223.00,31800.50
+"Dachshund",dachshund,medium,13.2,nt,buy,puppy,4679.90,2196.00,31471.10
+"Dachshund",dachshund,medium,13.2,act,buy,puppy,4746.45,2160.00,31098.45
+"Dalmatian",dalmatian,medium,13.2,nsw,buy,puppy,4848.90,2160.00,31200.90
+"Dalmatian",dalmatian,medium,13.2,vic,buy,puppy,4827.90,2223.00,31948.50
+"Dalmatian",dalmatian,medium,13.2,qld,buy,puppy,4813.40,2224.55,31952.91
+"Dalmatian",dalmatian,medium,13.2,sa,buy,puppy,4820.00,2215.10,31844.22
+"Dalmatian",dalmatian,medium,13.2,wa,buy,puppy,4864.90,2160.00,31216.90
+"Dalmatian",dalmatian,medium,13.2,tas,buy,puppy,4829.90,2223.00,31950.50
+"Dalmatian",dalmatian,medium,13.2,nt,buy,puppy,4829.90,2196.00,31621.10
+"Dalmatian",dalmatian,medium,13.2,act,buy,puppy,4896.45,2160.00,31248.45
+"Dobermann",dobermann,large,11.2,nsw,buy,puppy,4848.90,2160.00,26880.90
+"Dobermann",dobermann,large,11.2,vic,buy,puppy,4827.90,2223.00,27502.50
+"Dobermann",dobermann,large,11.2,qld,buy,puppy,4813.40,2224.55,27503.81
+"Dobermann",dobermann,large,11.2,sa,buy,puppy,4820.00,2215.10,27414.02
+"Dobermann",dobermann,large,11.2,wa,buy,puppy,4864.90,2160.00,26896.90
+"Dobermann",dobermann,large,11.2,tas,buy,puppy,4829.90,2223.00,27504.50
+"Dobermann",dobermann,large,11.2,nt,buy,puppy,4829.90,2196.00,27229.10
+"Dobermann",dobermann,large,11.2,act,buy,puppy,4896.45,2160.00,26928.45
+"English Springer Spaniel",english-springer-spaniel,medium,13.5,nsw,buy,puppy,4848.90,2160.00,31848.90
+"English Springer Spaniel",english-springer-spaniel,medium,13.5,vic,buy,puppy,4827.90,2223.00,32615.40
+"English Springer Spaniel",english-springer-spaniel,medium,13.5,qld,buy,puppy,4813.40,2224.55,32620.28
+"English Springer Spaniel",english-springer-spaniel,medium,13.5,sa,buy,puppy,4820.00,2215.10,32508.75
+"English Springer Spaniel",english-springer-spaniel,medium,13.5,wa,buy,puppy,4864.90,2160.00,31864.90
+"English Springer Spaniel",english-springer-spaniel,medium,13.5,tas,buy,puppy,4829.90,2223.00,32617.40
+"English Springer Spaniel",english-springer-spaniel,medium,13.5,nt,buy,puppy,4829.90,2196.00,32279.90
+"English Springer Spaniel",english-springer-spaniel,medium,13.5,act,buy,puppy,4896.45,2160.00,31896.45
+"Field Spaniel",field-spaniel,medium,13.1,nsw,buy,puppy,4848.90,2160.00,30984.90
+"Field Spaniel",field-spaniel,medium,13.1,vic,buy,puppy,4827.90,2223.00,31726.20
+"Field Spaniel",field-spaniel,medium,13.1,qld,buy,puppy,4813.40,2224.55,31730.46
+"Field Spaniel",field-spaniel,medium,13.1,sa,buy,puppy,4820.00,2215.10,31622.71
+"Field Spaniel",field-spaniel,medium,13.1,wa,buy,puppy,4864.90,2160.00,31000.90
+"Field Spaniel",field-spaniel,medium,13.1,tas,buy,puppy,4829.90,2223.00,31728.20
+"Field Spaniel",field-spaniel,medium,13.1,nt,buy,puppy,4829.90,2196.00,31401.50
+"Field Spaniel",field-spaniel,medium,13.1,act,buy,puppy,4896.45,2160.00,31032.45
+"Flat-Coated Retriever",flat-coated-retriever,large,11.7,nsw,buy,puppy,4848.90,2160.00,27960.90
+"Flat-Coated Retriever",flat-coated-retriever,large,11.7,vic,buy,puppy,4827.90,2223.00,28614.00
+"Flat-Coated Retriever",flat-coated-retriever,large,11.7,qld,buy,puppy,4813.40,2224.55,28616.09
+"Flat-Coated Retriever",flat-coated-retriever,large,11.7,sa,buy,puppy,4820.00,2215.10,28521.57
+"Flat-Coated Retriever",flat-coated-retriever,large,11.7,wa,buy,puppy,4864.90,2160.00,27976.90
+"Flat-Coated Retriever",flat-coated-retriever,large,11.7,tas,buy,puppy,4829.90,2223.00,28616.00
+"Flat-Coated Retriever",flat-coated-retriever,large,11.7,nt,buy,puppy,4829.90,2196.00,28327.10
+"Flat-Coated Retriever",flat-coated-retriever,large,11.7,act,buy,puppy,4896.45,2160.00,28008.45
+"Fox Terrier (Wire)",fox-terrier-wire,small,13.5,nsw,buy,puppy,4698.90,2160.00,31698.90
+"Fox Terrier (Wire)",fox-terrier-wire,small,13.5,vic,buy,puppy,4677.90,2223.00,32465.40
+"Fox Terrier (Wire)",fox-terrier-wire,small,13.5,qld,buy,puppy,4663.40,2224.55,32470.28
+"Fox Terrier (Wire)",fox-terrier-wire,small,13.5,sa,buy,puppy,4670.00,2215.10,32358.75
+"Fox Terrier (Wire)",fox-terrier-wire,small,13.5,wa,buy,puppy,4714.90,2160.00,31714.90
+"Fox Terrier (Wire)",fox-terrier-wire,small,13.5,tas,buy,puppy,4679.90,2223.00,32467.40
+"Fox Terrier (Wire)",fox-terrier-wire,small,13.5,nt,buy,puppy,4679.90,2196.00,32129.90
+"Fox Terrier (Wire)",fox-terrier-wire,small,13.5,act,buy,puppy,4746.45,2160.00,31746.45
+"French Bulldog",french-bulldog,medium,9.8,nsw,buy,puppy,4698.90,2160.00,23706.90
+"French Bulldog",french-bulldog,medium,9.8,vic,buy,puppy,4677.90,2223.00,24240.30
+"French Bulldog",french-bulldog,medium,9.8,qld,buy,puppy,4663.40,2224.55,24239.44
+"French Bulldog",french-bulldog,medium,9.8,sa,buy,puppy,4670.00,2215.10,24162.88
+"French Bulldog",french-bulldog,medium,9.8,wa,buy,puppy,4714.90,2160.00,23722.90
+"French Bulldog",french-bulldog,medium,9.8,tas,buy,puppy,4679.90,2223.00,24242.30
+"French Bulldog",french-bulldog,medium,9.8,nt,buy,puppy,4679.90,2196.00,24004.70
+"French Bulldog",french-bulldog,medium,9.8,act,buy,puppy,4746.45,2160.00,23754.45
+"German Shepherd",german-shepherd,large,11.3,nsw,buy,puppy,4848.90,2160.00,27096.90
+"German Shepherd",german-shepherd,large,11.3,vic,buy,puppy,4827.90,2223.00,27724.80
+"German Shepherd",german-shepherd,large,11.3,qld,buy,puppy,4813.40,2224.55,27726.27
+"German Shepherd",german-shepherd,large,11.3,sa,buy,puppy,4820.00,2215.10,27635.53
+"German Shepherd",german-shepherd,large,11.3,wa,buy,puppy,4864.90,2160.00,27112.90
+"German Shepherd",german-shepherd,large,11.3,tas,buy,puppy,4829.90,2223.00,27726.80
+"German Shepherd",german-shepherd,large,11.3,nt,buy,puppy,4829.90,2196.00,27448.70
+"German Shepherd",german-shepherd,large,11.3,act,buy,puppy,4896.45,2160.00,27144.45
+"German Shorthaired Pointer",german-shorthaired-pointer,medium,13.4,nsw,buy,puppy,4848.90,2160.00,31632.90
+"German Shorthaired Pointer",german-shorthaired-pointer,medium,13.4,vic,buy,puppy,4827.90,2223.00,32393.10
+"German Shorthaired Pointer",german-shorthaired-pointer,medium,13.4,qld,buy,puppy,4813.40,2224.55,32397.82
+"German Shorthaired Pointer",german-shorthaired-pointer,medium,13.4,sa,buy,puppy,4820.00,2215.10,32287.24
+"German Shorthaired Pointer",german-shorthaired-pointer,medium,13.4,wa,buy,puppy,4864.90,2160.00,31648.90
+"German Shorthaired Pointer",german-shorthaired-pointer,medium,13.4,tas,buy,puppy,4829.90,2223.00,32395.10
+"German Shorthaired Pointer",german-shorthaired-pointer,medium,13.4,nt,buy,puppy,4829.90,2196.00,32060.30
+"German Shorthaired Pointer",german-shorthaired-pointer,medium,13.4,act,buy,puppy,4896.45,2160.00,31680.45
+"Giant Schnauzer",giant-schnauzer,large,12.1,nsw,buy,puppy,4848.90,2160.00,28824.90
+"Giant Schnauzer",giant-schnauzer,large,12.1,vic,buy,puppy,4827.90,2223.00,29503.20
+"Giant Schnauzer",giant-schnauzer,large,12.1,qld,buy,puppy,4813.40,2224.55,29505.91
+"Giant Schnauzer",giant-schnauzer,large,12.1,sa,buy,puppy,4820.00,2215.10,29407.61
+"Giant Schnauzer",giant-schnauzer,large,12.1,wa,buy,puppy,4864.90,2160.00,28840.90
+"Giant Schnauzer",giant-schnauzer,large,12.1,tas,buy,puppy,4829.90,2223.00,29505.20
+"Giant Schnauzer",giant-schnauzer,large,12.1,nt,buy,puppy,4829.90,2196.00,29205.50
+"Giant Schnauzer",giant-schnauzer,large,12.1,act,buy,puppy,4896.45,2160.00,28872.45
+"Golden Retriever",golden-retriever,large,13.2,nsw,buy,puppy,4848.90,2160.00,31200.90
+"Golden Retriever",golden-retriever,large,13.2,vic,buy,puppy,4827.90,2223.00,31948.50
+"Golden Retriever",golden-retriever,large,13.2,qld,buy,puppy,4813.40,2224.55,31952.91
+"Golden Retriever",golden-retriever,large,13.2,sa,buy,puppy,4820.00,2215.10,31844.22
+"Golden Retriever",golden-retriever,large,13.2,wa,buy,puppy,4864.90,2160.00,31216.90
+"Golden Retriever",golden-retriever,large,13.2,tas,buy,puppy,4829.90,2223.00,31950.50
+"Golden Retriever",golden-retriever,large,13.2,nt,buy,puppy,4829.90,2196.00,31621.10
+"Golden Retriever",golden-retriever,large,13.2,act,buy,puppy,4896.45,2160.00,31248.45
+"Gordon Setter",gordon-setter,large,12.4,nsw,buy,puppy,4848.90,2160.00,29472.90
+"Gordon Setter",gordon-setter,large,12.4,vic,buy,puppy,4827.90,2223.00,30170.10
+"Gordon Setter",gordon-setter,large,12.4,qld,buy,puppy,4813.40,2224.55,30173.27
+"Gordon Setter",gordon-setter,large,12.4,sa,buy,puppy,4820.00,2215.10,30072.14
+"Gordon Setter",gordon-setter,large,12.4,wa,buy,puppy,4864.90,2160.00,29488.90
+"Gordon Setter",gordon-setter,large,12.4,tas,buy,puppy,4829.90,2223.00,30172.10
+"Gordon Setter",gordon-setter,large,12.4,nt,buy,puppy,4829.90,2196.00,29864.30
+"Gordon Setter",gordon-setter,large,12.4,act,buy,puppy,4896.45,2160.00,29520.45
+"Great Dane",great-dane,giant,10.6,nsw,buy,puppy,4848.90,2160.00,25584.90
+"Great Dane",great-dane,giant,10.6,vic,buy,puppy,4827.90,2223.00,26168.70
+"Great Dane",great-dane,giant,10.6,qld,buy,puppy,4813.40,2224.55,26169.08
+"Great Dane",great-dane,giant,10.6,sa,buy,puppy,4820.00,2215.10,26084.96
+"Great Dane",great-dane,giant,10.6,wa,buy,puppy,4864.90,2160.00,25600.90
+"Great Dane",great-dane,giant,10.6,tas,buy,puppy,4829.90,2223.00,26170.70
+"Great Dane",great-dane,giant,10.6,nt,buy,puppy,4829.90,2196.00,25911.50
+"Great Dane",great-dane,giant,10.6,act,buy,puppy,4896.45,2160.00,25632.45
+"Great Pyrenees",great-pyrenees,giant,10.9,nsw,buy,puppy,4848.90,2160.00,26232.90
+"Great Pyrenees",great-pyrenees,giant,10.9,vic,buy,puppy,4827.90,2223.00,26835.60
+"Great Pyrenees",great-pyrenees,giant,10.9,qld,buy,puppy,4813.40,2224.55,26836.45
+"Great Pyrenees",great-pyrenees,giant,10.9,sa,buy,puppy,4820.00,2215.10,26749.49
+"Great Pyrenees",great-pyrenees,giant,10.9,wa,buy,puppy,4864.90,2160.00,26248.90
+"Great Pyrenees",great-pyrenees,giant,10.9,tas,buy,puppy,4829.90,2223.00,26837.60
+"Great Pyrenees",great-pyrenees,giant,10.9,nt,buy,puppy,4829.90,2196.00,26570.30
+"Great Pyrenees",great-pyrenees,giant,10.9,act,buy,puppy,4896.45,2160.00,26280.45
+"Greyhound",greyhound,large,11.5,nsw,buy,puppy,4848.90,2160.00,27528.90
+"Greyhound",greyhound,large,11.5,vic,buy,puppy,4827.90,2223.00,28169.40
+"Greyhound",greyhound,large,11.5,qld,buy,puppy,4813.40,2224.55,28171.18
+"Greyhound",greyhound,large,11.5,sa,buy,puppy,4820.00,2215.10,28078.55
+"Greyhound",greyhound,large,11.5,wa,buy,puppy,4864.90,2160.00,27544.90
+"Greyhound",greyhound,large,11.5,tas,buy,puppy,4829.90,2223.00,28171.40
+"Greyhound",greyhound,large,11.5,nt,buy,puppy,4829.90,2196.00,27887.90
+"Greyhound",greyhound,large,11.5,act,buy,puppy,4896.45,2160.00,27576.45
+"Groodle",groodle,large,12,nsw,buy,puppy,5090.90,2160.00,28850.90
+"Groodle",groodle,large,12,vic,buy,puppy,5069.90,2223.00,29522.90
+"Groodle",groodle,large,12,qld,buy,puppy,5055.40,2224.55,29525.45
+"Groodle",groodle,large,12,sa,buy,puppy,5062.00,2215.10,29428.10
+"Groodle",groodle,large,12,wa,buy,puppy,5106.90,2160.00,28866.90
+"Groodle",groodle,large,12,tas,buy,puppy,5071.90,2223.00,29524.90
+"Groodle",groodle,large,12,nt,buy,puppy,5071.90,2196.00,29227.90
+"Groodle",groodle,large,12,act,buy,puppy,5138.45,2160.00,28898.45
+"Havanese",havanese,small,14.5,nsw,buy,puppy,4698.90,2160.00,33858.90
+"Havanese",havanese,small,14.5,vic,buy,puppy,4677.90,2223.00,34688.40
+"Havanese",havanese,small,14.5,qld,buy,puppy,4663.40,2224.55,34694.83
+"Havanese",havanese,small,14.5,sa,buy,puppy,4670.00,2215.10,34573.85
+"Havanese",havanese,small,14.5,wa,buy,puppy,4714.90,2160.00,33874.90
+"Havanese",havanese,small,14.5,tas,buy,puppy,4679.90,2223.00,34690.40
+"Havanese",havanese,small,14.5,nt,buy,puppy,4679.90,2196.00,34325.90
+"Havanese",havanese,small,14.5,act,buy,puppy,4746.45,2160.00,33906.45
+"Irish Wolfhound",irish-wolfhound,giant,9.9,nsw,buy,puppy,4848.90,2160.00,24072.90
+"Irish Wolfhound",irish-wolfhound,giant,9.9,vic,buy,puppy,4827.90,2223.00,24612.60
+"Irish Wolfhound",irish-wolfhound,giant,9.9,qld,buy,puppy,4813.40,2224.55,24611.90
+"Irish Wolfhound",irish-wolfhound,giant,9.9,sa,buy,puppy,4820.00,2215.10,24534.39
+"Irish Wolfhound",irish-wolfhound,giant,9.9,wa,buy,puppy,4864.90,2160.00,24088.90
+"Irish Wolfhound",irish-wolfhound,giant,9.9,tas,buy,puppy,4829.90,2223.00,24614.60
+"Irish Wolfhound",irish-wolfhound,giant,9.9,nt,buy,puppy,4829.90,2196.00,24374.30
+"Irish Wolfhound",irish-wolfhound,giant,9.9,act,buy,puppy,4896.45,2160.00,24120.45
+"Italian Greyhound",italian-greyhound,small,14,nsw,buy,puppy,4698.90,2160.00,32778.90
+"Italian Greyhound",italian-greyhound,small,14,vic,buy,puppy,4677.90,2223.00,33576.90
+"Italian Greyhound",italian-greyhound,small,14,qld,buy,puppy,4663.40,2224.55,33582.55
+"Italian Greyhound",italian-greyhound,small,14,sa,buy,puppy,4670.00,2215.10,33466.30
+"Italian Greyhound",italian-greyhound,small,14,wa,buy,puppy,4714.90,2160.00,32794.90
+"Italian Greyhound",italian-greyhound,small,14,tas,buy,puppy,4679.90,2223.00,33578.90
+"Italian Greyhound",italian-greyhound,small,14,nt,buy,puppy,4679.90,2196.00,33227.90
+"Italian Greyhound",italian-greyhound,small,14,act,buy,puppy,4746.45,2160.00,32826.45
+"Jack Russell Terrier",jack-russell-terrier,small,13.3,nsw,buy,puppy,4698.90,2160.00,31266.90
+"Jack Russell Terrier",jack-russell-terrier,small,13.3,vic,buy,puppy,4677.90,2223.00,32020.80
+"Jack Russell Terrier",jack-russell-terrier,small,13.3,qld,buy,puppy,4663.40,2224.55,32025.37
+"Jack Russell Terrier",jack-russell-terrier,small,13.3,sa,buy,puppy,4670.00,2215.10,31915.73
+"Jack Russell Terrier",jack-russell-terrier,small,13.3,wa,buy,puppy,4714.90,2160.00,31282.90
+"Jack Russell Terrier",jack-russell-terrier,small,13.3,tas,buy,puppy,4679.90,2223.00,32022.80
+"Jack Russell Terrier",jack-russell-terrier,small,13.3,nt,buy,puppy,4679.90,2196.00,31690.70
+"Jack Russell Terrier",jack-russell-terrier,small,13.3,act,buy,puppy,4746.45,2160.00,31314.45
+"Japanese Chin",japanese-chin,small,12.5,nsw,buy,puppy,4698.90,2160.00,29538.90
+"Japanese Chin",japanese-chin,small,12.5,vic,buy,puppy,4677.90,2223.00,30242.40
+"Japanese Chin",japanese-chin,small,12.5,qld,buy,puppy,4663.40,2224.55,30245.73
+"Japanese Chin",japanese-chin,small,12.5,sa,buy,puppy,4670.00,2215.10,30143.65
+"Japanese Chin",japanese-chin,small,12.5,wa,buy,puppy,4714.90,2160.00,29554.90
+"Japanese Chin",japanese-chin,small,12.5,tas,buy,puppy,4679.90,2223.00,30244.40
+"Japanese Chin",japanese-chin,small,12.5,nt,buy,puppy,4679.90,2196.00,29933.90
+"Japanese Chin",japanese-chin,small,12.5,act,buy,puppy,4746.45,2160.00,29586.45
+"Keeshond",keeshond,medium,12.3,nsw,buy,puppy,4698.90,2160.00,29106.90
+"Keeshond",keeshond,medium,12.3,vic,buy,puppy,4677.90,2223.00,29797.80
+"Keeshond",keeshond,medium,12.3,qld,buy,puppy,4663.40,2224.55,29800.82
+"Keeshond",keeshond,medium,12.3,sa,buy,puppy,4670.00,2215.10,29700.63
+"Keeshond",keeshond,medium,12.3,wa,buy,puppy,4714.90,2160.00,29122.90
+"Keeshond",keeshond,medium,12.3,tas,buy,puppy,4679.90,2223.00,29799.80
+"Keeshond",keeshond,medium,12.3,nt,buy,puppy,4679.90,2196.00,29494.70
+"Keeshond",keeshond,medium,12.3,act,buy,puppy,4746.45,2160.00,29154.45
+"Labradoodle",labradoodle,large,12,nsw,buy,puppy,5090.90,2160.00,28850.90
+"Labradoodle",labradoodle,large,12,vic,buy,puppy,5069.90,2223.00,29522.90
+"Labradoodle",labradoodle,large,12,qld,buy,puppy,5055.40,2224.55,29525.45
+"Labradoodle",labradoodle,large,12,sa,buy,puppy,5062.00,2215.10,29428.10
+"Labradoodle",labradoodle,large,12,wa,buy,puppy,5106.90,2160.00,28866.90
+"Labradoodle",labradoodle,large,12,tas,buy,puppy,5071.90,2223.00,29524.90
+"Labradoodle",labradoodle,large,12,nt,buy,puppy,5071.90,2196.00,29227.90
+"Labradoodle",labradoodle,large,12,act,buy,puppy,5138.45,2160.00,28898.45
+"Labrador Retriever",labrador-retriever,large,13.1,nsw,buy,puppy,4848.90,2160.00,30984.90
+"Labrador Retriever",labrador-retriever,large,13.1,vic,buy,puppy,4827.90,2223.00,31726.20
+"Labrador Retriever",labrador-retriever,large,13.1,qld,buy,puppy,4813.40,2224.55,31730.46
+"Labrador Retriever",labrador-retriever,large,13.1,sa,buy,puppy,4820.00,2215.10,31622.71
+"Labrador Retriever",labrador-retriever,large,13.1,wa,buy,puppy,4864.90,2160.00,31000.90
+"Labrador Retriever",labrador-retriever,large,13.1,tas,buy,puppy,4829.90,2223.00,31728.20
+"Labrador Retriever",labrador-retriever,large,13.1,nt,buy,puppy,4829.90,2196.00,31401.50
+"Labrador Retriever",labrador-retriever,large,13.1,act,buy,puppy,4896.45,2160.00,31032.45
+"Lagotto Romagnolo",lagotto-romagnolo,medium,12.5,nsw,buy,puppy,4698.90,2160.00,29538.90
+"Lagotto Romagnolo",lagotto-romagnolo,medium,12.5,vic,buy,puppy,4677.90,2223.00,30242.40
+"Lagotto Romagnolo",lagotto-romagnolo,medium,12.5,qld,buy,puppy,4663.40,2224.55,30245.73
+"Lagotto Romagnolo",lagotto-romagnolo,medium,12.5,sa,buy,puppy,4670.00,2215.10,30143.65
+"Lagotto Romagnolo",lagotto-romagnolo,medium,12.5,wa,buy,puppy,4714.90,2160.00,29554.90
+"Lagotto Romagnolo",lagotto-romagnolo,medium,12.5,tas,buy,puppy,4679.90,2223.00,30244.40
+"Lagotto Romagnolo",lagotto-romagnolo,medium,12.5,nt,buy,puppy,4679.90,2196.00,29933.90
+"Lagotto Romagnolo",lagotto-romagnolo,medium,12.5,act,buy,puppy,4746.45,2160.00,29586.45
+"Lhasa Apso",lhasa-apso,small,14,nsw,buy,puppy,4698.90,2160.00,32778.90
+"Lhasa Apso",lhasa-apso,small,14,vic,buy,puppy,4677.90,2223.00,33576.90
+"Lhasa Apso",lhasa-apso,small,14,qld,buy,puppy,4663.40,2224.55,33582.55
+"Lhasa Apso",lhasa-apso,small,14,sa,buy,puppy,4670.00,2215.10,33466.30
+"Lhasa Apso",lhasa-apso,small,14,wa,buy,puppy,4714.90,2160.00,32794.90
+"Lhasa Apso",lhasa-apso,small,14,tas,buy,puppy,4679.90,2223.00,33578.90
+"Lhasa Apso",lhasa-apso,small,14,nt,buy,puppy,4679.90,2196.00,33227.90
+"Lhasa Apso",lhasa-apso,small,14,act,buy,puppy,4746.45,2160.00,32826.45
+"Lowchen",lowchen,small,13.9,nsw,buy,puppy,4698.90,2160.00,32562.90
+"Lowchen",lowchen,small,13.9,vic,buy,puppy,4677.90,2223.00,33354.60
+"Lowchen",lowchen,small,13.9,qld,buy,puppy,4663.40,2224.55,33360.10
+"Lowchen",lowchen,small,13.9,sa,buy,puppy,4670.00,2215.10,33244.79
+"Lowchen",lowchen,small,13.9,wa,buy,puppy,4714.90,2160.00,32578.90
+"Lowchen",lowchen,small,13.9,tas,buy,puppy,4679.90,2223.00,33356.60
+"Lowchen",lowchen,small,13.9,nt,buy,puppy,4679.90,2196.00,33008.30
+"Lowchen",lowchen,small,13.9,act,buy,puppy,4746.45,2160.00,32610.45
+"Maltese",maltese,small,13.1,nsw,buy,puppy,4698.90,2160.00,30834.90
+"Maltese",maltese,small,13.1,vic,buy,puppy,4677.90,2223.00,31576.20
+"Maltese",maltese,small,13.1,qld,buy,puppy,4663.40,2224.55,31580.46
+"Maltese",maltese,small,13.1,sa,buy,puppy,4670.00,2215.10,31472.71
+"Maltese",maltese,small,13.1,wa,buy,puppy,4714.90,2160.00,30850.90
+"Maltese",maltese,small,13.1,tas,buy,puppy,4679.90,2223.00,31578.20
+"Maltese",maltese,small,13.1,nt,buy,puppy,4679.90,2196.00,31251.50
+"Maltese",maltese,small,13.1,act,buy,puppy,4746.45,2160.00,30882.45
+"Mastiff",mastiff,giant,9,nsw,buy,puppy,4848.90,2160.00,22128.90
+"Mastiff",mastiff,giant,9,vic,buy,puppy,4827.90,2223.00,22611.90
+"Mastiff",mastiff,giant,9,qld,buy,puppy,4813.40,2224.55,22609.80
+"Mastiff",mastiff,giant,9,sa,buy,puppy,4820.00,2215.10,22540.80
+"Mastiff",mastiff,giant,9,wa,buy,puppy,4864.90,2160.00,22144.90
+"Mastiff",mastiff,giant,9,tas,buy,puppy,4829.90,2223.00,22613.90
+"Mastiff",mastiff,giant,9,nt,buy,puppy,4829.90,2196.00,22397.90
+"Mastiff",mastiff,giant,9,act,buy,puppy,4896.45,2160.00,22176.45
+"Miniature Bull Terrier",miniature-bull-terrier,small,12.2,nsw,buy,puppy,4698.90,2160.00,28890.90
+"Miniature Bull Terrier",miniature-bull-terrier,small,12.2,vic,buy,puppy,4677.90,2223.00,29575.50
+"Miniature Bull Terrier",miniature-bull-terrier,small,12.2,qld,buy,puppy,4663.40,2224.55,29578.36
+"Miniature Bull Terrier",miniature-bull-terrier,small,12.2,sa,buy,puppy,4670.00,2215.10,29479.12
+"Miniature Bull Terrier",miniature-bull-terrier,small,12.2,wa,buy,puppy,4714.90,2160.00,28906.90
+"Miniature Bull Terrier",miniature-bull-terrier,small,12.2,tas,buy,puppy,4679.90,2223.00,29577.50
+"Miniature Bull Terrier",miniature-bull-terrier,small,12.2,nt,buy,puppy,4679.90,2196.00,29275.10
+"Miniature Bull Terrier",miniature-bull-terrier,small,12.2,act,buy,puppy,4746.45,2160.00,28938.45
+"Miniature Dachshund",miniature-dachshund,small,14,nsw,buy,puppy,4698.90,2160.00,32778.90
+"Miniature Dachshund",miniature-dachshund,small,14,vic,buy,puppy,4677.90,2223.00,33576.90
+"Miniature Dachshund",miniature-dachshund,small,14,qld,buy,puppy,4663.40,2224.55,33582.55
+"Miniature Dachshund",miniature-dachshund,small,14,sa,buy,puppy,4670.00,2215.10,33466.30
+"Miniature Dachshund",miniature-dachshund,small,14,wa,buy,puppy,4714.90,2160.00,32794.90
+"Miniature Dachshund",miniature-dachshund,small,14,tas,buy,puppy,4679.90,2223.00,33578.90
+"Miniature Dachshund",miniature-dachshund,small,14,nt,buy,puppy,4679.90,2196.00,33227.90
+"Miniature Dachshund",miniature-dachshund,small,14,act,buy,puppy,4746.45,2160.00,32826.45
+"Miniature Pinscher",miniature-pinscher,small,13.7,nsw,buy,puppy,4698.90,2160.00,32130.90
+"Miniature Pinscher",miniature-pinscher,small,13.7,vic,buy,puppy,4677.90,2223.00,32910.00
+"Miniature Pinscher",miniature-pinscher,small,13.7,qld,buy,puppy,4663.40,2224.55,32915.19
+"Miniature Pinscher",miniature-pinscher,small,13.7,sa,buy,puppy,4670.00,2215.10,32801.77
+"Miniature Pinscher",miniature-pinscher,small,13.7,wa,buy,puppy,4714.90,2160.00,32146.90
+"Miniature Pinscher",miniature-pinscher,small,13.7,tas,buy,puppy,4679.90,2223.00,32912.00
+"Miniature Pinscher",miniature-pinscher,small,13.7,nt,buy,puppy,4679.90,2196.00,32569.10
+"Miniature Pinscher",miniature-pinscher,small,13.7,act,buy,puppy,4746.45,2160.00,32178.45
+"Miniature Poodle",miniature-poodle,small,14,nsw,buy,puppy,4698.90,2160.00,32778.90
+"Miniature Poodle",miniature-poodle,small,14,vic,buy,puppy,4677.90,2223.00,33576.90
+"Miniature Poodle",miniature-poodle,small,14,qld,buy,puppy,4663.40,2224.55,33582.55
+"Miniature Poodle",miniature-poodle,small,14,sa,buy,puppy,4670.00,2215.10,33466.30
+"Miniature Poodle",miniature-poodle,small,14,wa,buy,puppy,4714.90,2160.00,32794.90
+"Miniature Poodle",miniature-poodle,small,14,tas,buy,puppy,4679.90,2223.00,33578.90
+"Miniature Poodle",miniature-poodle,small,14,nt,buy,puppy,4679.90,2196.00,33227.90
+"Miniature Poodle",miniature-poodle,small,14,act,buy,puppy,4746.45,2160.00,32826.45
+"Miniature Schnauzer",miniature-schnauzer,small,13.3,nsw,buy,puppy,4698.90,2160.00,31266.90
+"Miniature Schnauzer",miniature-schnauzer,small,13.3,vic,buy,puppy,4677.90,2223.00,32020.80
+"Miniature Schnauzer",miniature-schnauzer,small,13.3,qld,buy,puppy,4663.40,2224.55,32025.37
+"Miniature Schnauzer",miniature-schnauzer,small,13.3,sa,buy,puppy,4670.00,2215.10,31915.73
+"Miniature Schnauzer",miniature-schnauzer,small,13.3,wa,buy,puppy,4714.90,2160.00,31282.90
+"Miniature Schnauzer",miniature-schnauzer,small,13.3,tas,buy,puppy,4679.90,2223.00,32022.80
+"Miniature Schnauzer",miniature-schnauzer,small,13.3,nt,buy,puppy,4679.90,2196.00,31690.70
+"Miniature Schnauzer",miniature-schnauzer,small,13.3,act,buy,puppy,4746.45,2160.00,31314.45
+"Neapolitan Mastiff",neapolitan-mastiff,giant,9.3,nsw,buy,puppy,4848.90,2160.00,22776.90
+"Neapolitan Mastiff",neapolitan-mastiff,giant,9.3,vic,buy,puppy,4827.90,2223.00,23278.80
+"Neapolitan Mastiff",neapolitan-mastiff,giant,9.3,qld,buy,puppy,4813.40,2224.55,23277.17
+"Neapolitan Mastiff",neapolitan-mastiff,giant,9.3,sa,buy,puppy,4820.00,2215.10,23205.33
+"Neapolitan Mastiff",neapolitan-mastiff,giant,9.3,wa,buy,puppy,4864.90,2160.00,22792.90
+"Neapolitan Mastiff",neapolitan-mastiff,giant,9.3,tas,buy,puppy,4829.90,2223.00,23280.80
+"Neapolitan Mastiff",neapolitan-mastiff,giant,9.3,nt,buy,puppy,4829.90,2196.00,23056.70
+"Neapolitan Mastiff",neapolitan-mastiff,giant,9.3,act,buy,puppy,4896.45,2160.00,22824.45
+"Newfoundland",newfoundland,giant,11,nsw,buy,puppy,4848.90,2160.00,26448.90
+"Newfoundland",newfoundland,giant,11,vic,buy,puppy,4827.90,2223.00,27057.90
+"Newfoundland",newfoundland,giant,11,qld,buy,puppy,4813.40,2224.55,27058.90
+"Newfoundland",newfoundland,giant,11,sa,buy,puppy,4820.00,2215.10,26971.00
+"Newfoundland",newfoundland,giant,11,wa,buy,puppy,4864.90,2160.00,26464.90
+"Newfoundland",newfoundland,giant,11,tas,buy,puppy,4829.90,2223.00,27059.90
+"Newfoundland",newfoundland,giant,11,nt,buy,puppy,4829.90,2196.00,26789.90
+"Newfoundland",newfoundland,giant,11,act,buy,puppy,4896.45,2160.00,26496.45
+"Norfolk Terrier",norfolk-terrier,small,13.5,nsw,buy,puppy,4698.90,2160.00,31698.90
+"Norfolk Terrier",norfolk-terrier,small,13.5,vic,buy,puppy,4677.90,2223.00,32465.40
+"Norfolk Terrier",norfolk-terrier,small,13.5,qld,buy,puppy,4663.40,2224.55,32470.28
+"Norfolk Terrier",norfolk-terrier,small,13.5,sa,buy,puppy,4670.00,2215.10,32358.75
+"Norfolk Terrier",norfolk-terrier,small,13.5,wa,buy,puppy,4714.90,2160.00,31714.90
+"Norfolk Terrier",norfolk-terrier,small,13.5,tas,buy,puppy,4679.90,2223.00,32467.40
+"Norfolk Terrier",norfolk-terrier,small,13.5,nt,buy,puppy,4679.90,2196.00,32129.90
+"Norfolk Terrier",norfolk-terrier,small,13.5,act,buy,puppy,4746.45,2160.00,31746.45
+"Norwich Terrier",norwich-terrier,small,14,nsw,buy,puppy,4698.90,2160.00,32778.90
+"Norwich Terrier",norwich-terrier,small,14,vic,buy,puppy,4677.90,2223.00,33576.90
+"Norwich Terrier",norwich-terrier,small,14,qld,buy,puppy,4663.40,2224.55,33582.55
+"Norwich Terrier",norwich-terrier,small,14,sa,buy,puppy,4670.00,2215.10,33466.30
+"Norwich Terrier",norwich-terrier,small,14,wa,buy,puppy,4714.90,2160.00,32794.90
+"Norwich Terrier",norwich-terrier,small,14,tas,buy,puppy,4679.90,2223.00,33578.90
+"Norwich Terrier",norwich-terrier,small,14,nt,buy,puppy,4679.90,2196.00,33227.90
+"Norwich Terrier",norwich-terrier,small,14,act,buy,puppy,4746.45,2160.00,32826.45
+"Nova Scotia Duck Tolling Retriever",nova-scotia-duck-tolling-retriever,medium,13.2,nsw,buy,puppy,4698.90,2160.00,31050.90
+"Nova Scotia Duck Tolling Retriever",nova-scotia-duck-tolling-retriever,medium,13.2,vic,buy,puppy,4677.90,2223.00,31798.50
+"Nova Scotia Duck Tolling Retriever",nova-scotia-duck-tolling-retriever,medium,13.2,qld,buy,puppy,4663.40,2224.55,31802.91
+"Nova Scotia Duck Tolling Retriever",nova-scotia-duck-tolling-retriever,medium,13.2,sa,buy,puppy,4670.00,2215.10,31694.22
+"Nova Scotia Duck Tolling Retriever",nova-scotia-duck-tolling-retriever,medium,13.2,wa,buy,puppy,4714.90,2160.00,31066.90
+"Nova Scotia Duck Tolling Retriever",nova-scotia-duck-tolling-retriever,medium,13.2,tas,buy,puppy,4679.90,2223.00,31800.50
+"Nova Scotia Duck Tolling Retriever",nova-scotia-duck-tolling-retriever,medium,13.2,nt,buy,puppy,4679.90,2196.00,31471.10
+"Nova Scotia Duck Tolling Retriever",nova-scotia-duck-tolling-retriever,medium,13.2,act,buy,puppy,4746.45,2160.00,31098.45
+"Old English Sheepdog",old-english-sheepdog,large,12.1,nsw,buy,puppy,4848.90,2160.00,28824.90
+"Old English Sheepdog",old-english-sheepdog,large,12.1,vic,buy,puppy,4827.90,2223.00,29503.20
+"Old English Sheepdog",old-english-sheepdog,large,12.1,qld,buy,puppy,4813.40,2224.55,29505.91
+"Old English Sheepdog",old-english-sheepdog,large,12.1,sa,buy,puppy,4820.00,2215.10,29407.61
+"Old English Sheepdog",old-english-sheepdog,large,12.1,wa,buy,puppy,4864.90,2160.00,28840.90
+"Old English Sheepdog",old-english-sheepdog,large,12.1,tas,buy,puppy,4829.90,2223.00,29505.20
+"Old English Sheepdog",old-english-sheepdog,large,12.1,nt,buy,puppy,4829.90,2196.00,29205.50
+"Old English Sheepdog",old-english-sheepdog,large,12.1,act,buy,puppy,4896.45,2160.00,28872.45
+"Papillon",papillon,small,14.5,nsw,buy,puppy,4698.90,2160.00,33858.90
+"Papillon",papillon,small,14.5,vic,buy,puppy,4677.90,2223.00,34688.40
+"Papillon",papillon,small,14.5,qld,buy,puppy,4663.40,2224.55,34694.83
+"Papillon",papillon,small,14.5,sa,buy,puppy,4670.00,2215.10,34573.85
+"Papillon",papillon,small,14.5,wa,buy,puppy,4714.90,2160.00,33874.90
+"Papillon",papillon,small,14.5,tas,buy,puppy,4679.90,2223.00,34690.40
+"Papillon",papillon,small,14.5,nt,buy,puppy,4679.90,2196.00,34325.90
+"Papillon",papillon,small,14.5,act,buy,puppy,4746.45,2160.00,33906.45
+"Parson Russell Terrier",parson-russell-terrier,small,13.8,nsw,buy,puppy,4698.90,2160.00,32346.90
+"Parson Russell Terrier",parson-russell-terrier,small,13.8,vic,buy,puppy,4677.90,2223.00,33132.30
+"Parson Russell Terrier",parson-russell-terrier,small,13.8,qld,buy,puppy,4663.40,2224.55,33137.64
+"Parson Russell Terrier",parson-russell-terrier,small,13.8,sa,buy,puppy,4670.00,2215.10,33023.28
+"Parson Russell Terrier",parson-russell-terrier,small,13.8,wa,buy,puppy,4714.90,2160.00,32362.90
+"Parson Russell Terrier",parson-russell-terrier,small,13.8,tas,buy,puppy,4679.90,2223.00,33134.30
+"Parson Russell Terrier",parson-russell-terrier,small,13.8,nt,buy,puppy,4679.90,2196.00,32788.70
+"Parson Russell Terrier",parson-russell-terrier,small,13.8,act,buy,puppy,4746.45,2160.00,32394.45
+"Pekingese",pekingese,small,13.3,nsw,buy,puppy,4698.90,2160.00,31266.90
+"Pekingese",pekingese,small,13.3,vic,buy,puppy,4677.90,2223.00,32020.80
+"Pekingese",pekingese,small,13.3,qld,buy,puppy,4663.40,2224.55,32025.37
+"Pekingese",pekingese,small,13.3,sa,buy,puppy,4670.00,2215.10,31915.73
+"Pekingese",pekingese,small,13.3,wa,buy,puppy,4714.90,2160.00,31282.90
+"Pekingese",pekingese,small,13.3,tas,buy,puppy,4679.90,2223.00,32022.80
+"Pekingese",pekingese,small,13.3,nt,buy,puppy,4679.90,2196.00,31690.70
+"Pekingese",pekingese,small,13.3,act,buy,puppy,4746.45,2160.00,31314.45
+"Pembroke Welsh Corgi",pembroke-welsh-corgi,medium,13.2,nsw,buy,puppy,4698.90,2160.00,31050.90
+"Pembroke Welsh Corgi",pembroke-welsh-corgi,medium,13.2,vic,buy,puppy,4677.90,2223.00,31798.50
+"Pembroke Welsh Corgi",pembroke-welsh-corgi,medium,13.2,qld,buy,puppy,4663.40,2224.55,31802.91
+"Pembroke Welsh Corgi",pembroke-welsh-corgi,medium,13.2,sa,buy,puppy,4670.00,2215.10,31694.22
+"Pembroke Welsh Corgi",pembroke-welsh-corgi,medium,13.2,wa,buy,puppy,4714.90,2160.00,31066.90
+"Pembroke Welsh Corgi",pembroke-welsh-corgi,medium,13.2,tas,buy,puppy,4679.90,2223.00,31800.50
+"Pembroke Welsh Corgi",pembroke-welsh-corgi,medium,13.2,nt,buy,puppy,4679.90,2196.00,31471.10
+"Pembroke Welsh Corgi",pembroke-welsh-corgi,medium,13.2,act,buy,puppy,4746.45,2160.00,31098.45
+"Pomeranian",pomeranian,small,12.2,nsw,buy,puppy,4698.90,2160.00,28890.90
+"Pomeranian",pomeranian,small,12.2,vic,buy,puppy,4677.90,2223.00,29575.50
+"Pomeranian",pomeranian,small,12.2,qld,buy,puppy,4663.40,2224.55,29578.36
+"Pomeranian",pomeranian,small,12.2,sa,buy,puppy,4670.00,2215.10,29479.12
+"Pomeranian",pomeranian,small,12.2,wa,buy,puppy,4714.90,2160.00,28906.90
+"Pomeranian",pomeranian,small,12.2,tas,buy,puppy,4679.90,2223.00,29577.50
+"Pomeranian",pomeranian,small,12.2,nt,buy,puppy,4679.90,2196.00,29275.10
+"Pomeranian",pomeranian,small,12.2,act,buy,puppy,4746.45,2160.00,28938.45
+"Portuguese Water Dog",portuguese-water-dog,medium,13,nsw,buy,puppy,4848.90,2160.00,30768.90
+"Portuguese Water Dog",portuguese-water-dog,medium,13,vic,buy,puppy,4827.90,2223.00,31503.90
+"Portuguese Water Dog",portuguese-water-dog,medium,13,qld,buy,puppy,4813.40,2224.55,31508.00
+"Portuguese Water Dog",portuguese-water-dog,medium,13,sa,buy,puppy,4820.00,2215.10,31401.20
+"Portuguese Water Dog",portuguese-water-dog,medium,13,wa,buy,puppy,4864.90,2160.00,30784.90
+"Portuguese Water Dog",portuguese-water-dog,medium,13,tas,buy,puppy,4829.90,2223.00,31505.90
+"Portuguese Water Dog",portuguese-water-dog,medium,13,nt,buy,puppy,4829.90,2196.00,31181.90
+"Portuguese Water Dog",portuguese-water-dog,medium,13,act,buy,puppy,4896.45,2160.00,30816.45
+"Pug",pug,small,11.6,nsw,buy,puppy,4698.90,2160.00,27594.90
+"Pug",pug,small,11.6,vic,buy,puppy,4677.90,2223.00,28241.70
+"Pug",pug,small,11.6,qld,buy,puppy,4663.40,2224.55,28243.63
+"Pug",pug,small,11.6,sa,buy,puppy,4670.00,2215.10,28150.06
+"Pug",pug,small,11.6,wa,buy,puppy,4714.90,2160.00,27610.90
+"Pug",pug,small,11.6,tas,buy,puppy,4679.90,2223.00,28243.70
+"Pug",pug,small,11.6,nt,buy,puppy,4679.90,2196.00,27957.50
+"Pug",pug,small,11.6,act,buy,puppy,4746.45,2160.00,27642.45
+"Rhodesian Ridgeback",rhodesian-ridgeback,large,12,nsw,buy,puppy,4848.90,2160.00,28608.90
+"Rhodesian Ridgeback",rhodesian-ridgeback,large,12,vic,buy,puppy,4827.90,2223.00,29280.90
+"Rhodesian Ridgeback",rhodesian-ridgeback,large,12,qld,buy,puppy,4813.40,2224.55,29283.45
+"Rhodesian Ridgeback",rhodesian-ridgeback,large,12,sa,buy,puppy,4820.00,2215.10,29186.10
+"Rhodesian Ridgeback",rhodesian-ridgeback,large,12,wa,buy,puppy,4864.90,2160.00,28624.90
+"Rhodesian Ridgeback",rhodesian-ridgeback,large,12,tas,buy,puppy,4829.90,2223.00,29282.90
+"Rhodesian Ridgeback",rhodesian-ridgeback,large,12,nt,buy,puppy,4829.90,2196.00,28985.90
+"Rhodesian Ridgeback",rhodesian-ridgeback,large,12,act,buy,puppy,4896.45,2160.00,28656.45
+"Rottweiler",rottweiler,giant,10.6,nsw,buy,puppy,4848.90,2160.00,25584.90
+"Rottweiler",rottweiler,giant,10.6,vic,buy,puppy,4827.90,2223.00,26168.70
+"Rottweiler",rottweiler,giant,10.6,qld,buy,puppy,4813.40,2224.55,26169.08
+"Rottweiler",rottweiler,giant,10.6,sa,buy,puppy,4820.00,2215.10,26084.96
+"Rottweiler",rottweiler,giant,10.6,wa,buy,puppy,4864.90,2160.00,25600.90
+"Rottweiler",rottweiler,giant,10.6,tas,buy,puppy,4829.90,2223.00,26170.70
+"Rottweiler",rottweiler,giant,10.6,nt,buy,puppy,4829.90,2196.00,25911.50
+"Rottweiler",rottweiler,giant,10.6,act,buy,puppy,4896.45,2160.00,25632.45
+"Saluki",saluki,medium,13.3,nsw,buy,puppy,4848.90,2160.00,31416.90
+"Saluki",saluki,medium,13.3,vic,buy,puppy,4827.90,2223.00,32170.80
+"Saluki",saluki,medium,13.3,qld,buy,puppy,4813.40,2224.55,32175.37
+"Saluki",saluki,medium,13.3,sa,buy,puppy,4820.00,2215.10,32065.73
+"Saluki",saluki,medium,13.3,wa,buy,puppy,4864.90,2160.00,31432.90
+"Saluki",saluki,medium,13.3,tas,buy,puppy,4829.90,2223.00,32172.80
+"Saluki",saluki,medium,13.3,nt,buy,puppy,4829.90,2196.00,31840.70
+"Saluki",saluki,medium,13.3,act,buy,puppy,4896.45,2160.00,31464.45
+"Samoyed",samoyed,medium,13.1,nsw,buy,puppy,4848.90,2160.00,30984.90
+"Samoyed",samoyed,medium,13.1,vic,buy,puppy,4827.90,2223.00,31726.20
+"Samoyed",samoyed,medium,13.1,qld,buy,puppy,4813.40,2224.55,31730.46
+"Samoyed",samoyed,medium,13.1,sa,buy,puppy,4820.00,2215.10,31622.71
+"Samoyed",samoyed,medium,13.1,wa,buy,puppy,4864.90,2160.00,31000.90
+"Samoyed",samoyed,medium,13.1,tas,buy,puppy,4829.90,2223.00,31728.20
+"Samoyed",samoyed,medium,13.1,nt,buy,puppy,4829.90,2196.00,31401.50
+"Samoyed",samoyed,medium,13.1,act,buy,puppy,4896.45,2160.00,31032.45
+"Schipperke",schipperke,small,14.2,nsw,buy,puppy,4698.90,2160.00,33210.90
+"Schipperke",schipperke,small,14.2,vic,buy,puppy,4677.90,2223.00,34021.50
+"Schipperke",schipperke,small,14.2,qld,buy,puppy,4663.40,2224.55,34027.46
+"Schipperke",schipperke,small,14.2,sa,buy,puppy,4670.00,2215.10,33909.32
+"Schipperke",schipperke,small,14.2,wa,buy,puppy,4714.90,2160.00,33226.90
+"Schipperke",schipperke,small,14.2,tas,buy,puppy,4679.90,2223.00,34023.50
+"Schipperke",schipperke,small,14.2,nt,buy,puppy,4679.90,2196.00,33667.10
+"Schipperke",schipperke,small,14.2,act,buy,puppy,4746.45,2160.00,33258.45
+"Schnoodle",schnoodle,small,12,nsw,buy,puppy,4940.90,2160.00,28700.90
+"Schnoodle",schnoodle,small,12,vic,buy,puppy,4919.90,2223.00,29372.90
+"Schnoodle",schnoodle,small,12,qld,buy,puppy,4905.40,2224.55,29375.45
+"Schnoodle",schnoodle,small,12,sa,buy,puppy,4912.00,2215.10,29278.10
+"Schnoodle",schnoodle,small,12,wa,buy,puppy,4956.90,2160.00,28716.90
+"Schnoodle",schnoodle,small,12,tas,buy,puppy,4921.90,2223.00,29374.90
+"Schnoodle",schnoodle,small,12,nt,buy,puppy,4921.90,2196.00,29077.90
+"Schnoodle",schnoodle,small,12,act,buy,puppy,4988.45,2160.00,28748.45
+"Scottish Deerhound",scottish-deerhound,large,10.5,nsw,buy,puppy,4848.90,2160.00,25368.90
+"Scottish Deerhound",scottish-deerhound,large,10.5,vic,buy,puppy,4827.90,2223.00,25946.40
+"Scottish Deerhound",scottish-deerhound,large,10.5,qld,buy,puppy,4813.40,2224.55,25946.63
+"Scottish Deerhound",scottish-deerhound,large,10.5,sa,buy,puppy,4820.00,2215.10,25863.45
+"Scottish Deerhound",scottish-deerhound,large,10.5,wa,buy,puppy,4864.90,2160.00,25384.90
+"Scottish Deerhound",scottish-deerhound,large,10.5,tas,buy,puppy,4829.90,2223.00,25948.40
+"Scottish Deerhound",scottish-deerhound,large,10.5,nt,buy,puppy,4829.90,2196.00,25691.90
+"Scottish Deerhound",scottish-deerhound,large,10.5,act,buy,puppy,4896.45,2160.00,25416.45
+"Scottish Terrier",scottish-terrier,small,12.7,nsw,buy,puppy,4698.90,2160.00,29970.90
+"Scottish Terrier",scottish-terrier,small,12.7,vic,buy,puppy,4677.90,2223.00,30687.00
+"Scottish Terrier",scottish-terrier,small,12.7,qld,buy,puppy,4663.40,2224.55,30690.64
+"Scottish Terrier",scottish-terrier,small,12.7,sa,buy,puppy,4670.00,2215.10,30586.67
+"Scottish Terrier",scottish-terrier,small,12.7,wa,buy,puppy,4714.90,2160.00,29986.90
+"Scottish Terrier",scottish-terrier,small,12.7,tas,buy,puppy,4679.90,2223.00,30689.00
+"Scottish Terrier",scottish-terrier,small,12.7,nt,buy,puppy,4679.90,2196.00,30373.10
+"Scottish Terrier",scottish-terrier,small,12.7,act,buy,puppy,4746.45,2160.00,30018.45
+"Shar Pei",shar-pei,medium,10.6,nsw,buy,puppy,4848.90,2160.00,25584.90
+"Shar Pei",shar-pei,medium,10.6,vic,buy,puppy,4827.90,2223.00,26168.70
+"Shar Pei",shar-pei,medium,10.6,qld,buy,puppy,4813.40,2224.55,26169.08
+"Shar Pei",shar-pei,medium,10.6,sa,buy,puppy,4820.00,2215.10,26084.96
+"Shar Pei",shar-pei,medium,10.6,wa,buy,puppy,4864.90,2160.00,25600.90
+"Shar Pei",shar-pei,medium,10.6,tas,buy,puppy,4829.90,2223.00,26170.70
+"Shar Pei",shar-pei,medium,10.6,nt,buy,puppy,4829.90,2196.00,25911.50
+"Shar Pei",shar-pei,medium,10.6,act,buy,puppy,4896.45,2160.00,25632.45
+"Shetland Sheepdog",shetland-sheepdog,small,13.4,nsw,buy,puppy,4698.90,2160.00,31482.90
+"Shetland Sheepdog",shetland-sheepdog,small,13.4,vic,buy,puppy,4677.90,2223.00,32243.10
+"Shetland Sheepdog",shetland-sheepdog,small,13.4,qld,buy,puppy,4663.40,2224.55,32247.82
+"Shetland Sheepdog",shetland-sheepdog,small,13.4,sa,buy,puppy,4670.00,2215.10,32137.24
+"Shetland Sheepdog",shetland-sheepdog,small,13.4,wa,buy,puppy,4714.90,2160.00,31498.90
+"Shetland Sheepdog",shetland-sheepdog,small,13.4,tas,buy,puppy,4679.90,2223.00,32245.10
+"Shetland Sheepdog",shetland-sheepdog,small,13.4,nt,buy,puppy,4679.90,2196.00,31910.30
+"Shetland Sheepdog",shetland-sheepdog,small,13.4,act,buy,puppy,4746.45,2160.00,31530.45
+"Shiba Inu",shiba-inu,small,14.6,nsw,buy,puppy,4698.90,2160.00,34074.90
+"Shiba Inu",shiba-inu,small,14.6,vic,buy,puppy,4677.90,2223.00,34910.70
+"Shiba Inu",shiba-inu,small,14.6,qld,buy,puppy,4663.40,2224.55,34917.28
+"Shiba Inu",shiba-inu,small,14.6,sa,buy,puppy,4670.00,2215.10,34795.36
+"Shiba Inu",shiba-inu,small,14.6,wa,buy,puppy,4714.90,2160.00,34090.90
+"Shiba Inu",shiba-inu,small,14.6,tas,buy,puppy,4679.90,2223.00,34912.70
+"Shiba Inu",shiba-inu,small,14.6,nt,buy,puppy,4679.90,2196.00,34545.50
+"Shiba Inu",shiba-inu,small,14.6,act,buy,puppy,4746.45,2160.00,34122.45
+"Shih Tzu",shih-tzu,small,12.8,nsw,buy,puppy,4698.90,2160.00,30186.90
+"Shih Tzu",shih-tzu,small,12.8,vic,buy,puppy,4677.90,2223.00,30909.30
+"Shih Tzu",shih-tzu,small,12.8,qld,buy,puppy,4663.40,2224.55,30913.09
+"Shih Tzu",shih-tzu,small,12.8,sa,buy,puppy,4670.00,2215.10,30808.18
+"Shih Tzu",shih-tzu,small,12.8,wa,buy,puppy,4714.90,2160.00,30202.90
+"Shih Tzu",shih-tzu,small,12.8,tas,buy,puppy,4679.90,2223.00,30911.30
+"Shih Tzu",shih-tzu,small,12.8,nt,buy,puppy,4679.90,2196.00,30592.70
+"Shih Tzu",shih-tzu,small,12.8,act,buy,puppy,4746.45,2160.00,30234.45
+"Siberian Husky",siberian-husky,medium,11.9,nsw,buy,puppy,4848.90,2160.00,28392.90
+"Siberian Husky",siberian-husky,medium,11.9,vic,buy,puppy,4827.90,2223.00,29058.60
+"Siberian Husky",siberian-husky,medium,11.9,qld,buy,puppy,4813.40,2224.55,29061.00
+"Siberian Husky",siberian-husky,medium,11.9,sa,buy,puppy,4820.00,2215.10,28964.59
+"Siberian Husky",siberian-husky,medium,11.9,wa,buy,puppy,4864.90,2160.00,28408.90
+"Siberian Husky",siberian-husky,medium,11.9,tas,buy,puppy,4829.90,2223.00,29060.60
+"Siberian Husky",siberian-husky,medium,11.9,nt,buy,puppy,4829.90,2196.00,28766.30
+"Siberian Husky",siberian-husky,medium,11.9,act,buy,puppy,4896.45,2160.00,28440.45
+"Silky Terrier",silky-terrier,small,13.3,nsw,buy,puppy,4698.90,2160.00,31266.90
+"Silky Terrier",silky-terrier,small,13.3,vic,buy,puppy,4677.90,2223.00,32020.80
+"Silky Terrier",silky-terrier,small,13.3,qld,buy,puppy,4663.40,2224.55,32025.37
+"Silky Terrier",silky-terrier,small,13.3,sa,buy,puppy,4670.00,2215.10,31915.73
+"Silky Terrier",silky-terrier,small,13.3,wa,buy,puppy,4714.90,2160.00,31282.90
+"Silky Terrier",silky-terrier,small,13.3,tas,buy,puppy,4679.90,2223.00,32022.80
+"Silky Terrier",silky-terrier,small,13.3,nt,buy,puppy,4679.90,2196.00,31690.70
+"Silky Terrier",silky-terrier,small,13.3,act,buy,puppy,4746.45,2160.00,31314.45
+"Soft Coated Wheaten Terrier",soft-coated-wheaten-terrier,medium,13.7,nsw,buy,puppy,4698.90,2160.00,32130.90
+"Soft Coated Wheaten Terrier",soft-coated-wheaten-terrier,medium,13.7,vic,buy,puppy,4677.90,2223.00,32910.00
+"Soft Coated Wheaten Terrier",soft-coated-wheaten-terrier,medium,13.7,qld,buy,puppy,4663.40,2224.55,32915.19
+"Soft Coated Wheaten Terrier",soft-coated-wheaten-terrier,medium,13.7,sa,buy,puppy,4670.00,2215.10,32801.77
+"Soft Coated Wheaten Terrier",soft-coated-wheaten-terrier,medium,13.7,wa,buy,puppy,4714.90,2160.00,32146.90
+"Soft Coated Wheaten Terrier",soft-coated-wheaten-terrier,medium,13.7,tas,buy,puppy,4679.90,2223.00,32912.00
+"Soft Coated Wheaten Terrier",soft-coated-wheaten-terrier,medium,13.7,nt,buy,puppy,4679.90,2196.00,32569.10
+"Soft Coated Wheaten Terrier",soft-coated-wheaten-terrier,medium,13.7,act,buy,puppy,4746.45,2160.00,32178.45
+"Spinone Italiano",spinone-italiano,large,11.9,nsw,buy,puppy,4848.90,2160.00,28392.90
+"Spinone Italiano",spinone-italiano,large,11.9,vic,buy,puppy,4827.90,2223.00,29058.60
+"Spinone Italiano",spinone-italiano,large,11.9,qld,buy,puppy,4813.40,2224.55,29061.00
+"Spinone Italiano",spinone-italiano,large,11.9,sa,buy,puppy,4820.00,2215.10,28964.59
+"Spinone Italiano",spinone-italiano,large,11.9,wa,buy,puppy,4864.90,2160.00,28408.90
+"Spinone Italiano",spinone-italiano,large,11.9,tas,buy,puppy,4829.90,2223.00,29060.60
+"Spinone Italiano",spinone-italiano,large,11.9,nt,buy,puppy,4829.90,2196.00,28766.30
+"Spinone Italiano",spinone-italiano,large,11.9,act,buy,puppy,4896.45,2160.00,28440.45
+"Spoodle",spoodle,small,12,nsw,buy,puppy,4940.90,2160.00,28700.90
+"Spoodle",spoodle,small,12,vic,buy,puppy,4919.90,2223.00,29372.90
+"Spoodle",spoodle,small,12,qld,buy,puppy,4905.40,2224.55,29375.45
+"Spoodle",spoodle,small,12,sa,buy,puppy,4912.00,2215.10,29278.10
+"Spoodle",spoodle,small,12,wa,buy,puppy,4956.90,2160.00,28716.90
+"Spoodle",spoodle,small,12,tas,buy,puppy,4921.90,2223.00,29374.90
+"Spoodle",spoodle,small,12,nt,buy,puppy,4921.90,2196.00,29077.90
+"Spoodle",spoodle,small,12,act,buy,puppy,4988.45,2160.00,28748.45
+"St Bernard",st-bernard,giant,9.3,nsw,buy,puppy,4848.90,2160.00,22776.90
+"St Bernard",st-bernard,giant,9.3,vic,buy,puppy,4827.90,2223.00,23278.80
+"St Bernard",st-bernard,giant,9.3,qld,buy,puppy,4813.40,2224.55,23277.17
+"St Bernard",st-bernard,giant,9.3,sa,buy,puppy,4820.00,2215.10,23205.33
+"St Bernard",st-bernard,giant,9.3,wa,buy,puppy,4864.90,2160.00,22792.90
+"St Bernard",st-bernard,giant,9.3,tas,buy,puppy,4829.90,2223.00,23280.80
+"St Bernard",st-bernard,giant,9.3,nt,buy,puppy,4829.90,2196.00,23056.70
+"St Bernard",st-bernard,giant,9.3,act,buy,puppy,4896.45,2160.00,22824.45
+"Staffordshire Bull Terrier",staffordshire-bull-terrier,medium,12,nsw,buy,puppy,4698.90,2160.00,28458.90
+"Staffordshire Bull Terrier",staffordshire-bull-terrier,medium,12,vic,buy,puppy,4677.90,2223.00,29130.90
+"Staffordshire Bull Terrier",staffordshire-bull-terrier,medium,12,qld,buy,puppy,4663.40,2224.55,29133.45
+"Staffordshire Bull Terrier",staffordshire-bull-terrier,medium,12,sa,buy,puppy,4670.00,2215.10,29036.10
+"Staffordshire Bull Terrier",staffordshire-bull-terrier,medium,12,wa,buy,puppy,4714.90,2160.00,28474.90
+"Staffordshire Bull Terrier",staffordshire-bull-terrier,medium,12,tas,buy,puppy,4679.90,2223.00,29132.90
+"Staffordshire Bull Terrier",staffordshire-bull-terrier,medium,12,nt,buy,puppy,4679.90,2196.00,28835.90
+"Staffordshire Bull Terrier",staffordshire-bull-terrier,medium,12,act,buy,puppy,4746.45,2160.00,28506.45
+"Standard Poodle",standard-poodle,large,14,nsw,buy,puppy,4848.90,2160.00,32928.90
+"Standard Poodle",standard-poodle,large,14,vic,buy,puppy,4827.90,2223.00,33726.90
+"Standard Poodle",standard-poodle,large,14,qld,buy,puppy,4813.40,2224.55,33732.55
+"Standard Poodle",standard-poodle,large,14,sa,buy,puppy,4820.00,2215.10,33616.30
+"Standard Poodle",standard-poodle,large,14,wa,buy,puppy,4864.90,2160.00,32944.90
+"Standard Poodle",standard-poodle,large,14,tas,buy,puppy,4829.90,2223.00,33728.90
+"Standard Poodle",standard-poodle,large,14,nt,buy,puppy,4829.90,2196.00,33377.90
+"Standard Poodle",standard-poodle,large,14,act,buy,puppy,4896.45,2160.00,32976.45
+"Standard Schnauzer",standard-schnauzer,medium,13,nsw,buy,puppy,4698.90,2160.00,30618.90
+"Standard Schnauzer",standard-schnauzer,medium,13,vic,buy,puppy,4677.90,2223.00,31353.90
+"Standard Schnauzer",standard-schnauzer,medium,13,qld,buy,puppy,4663.40,2224.55,31358.00
+"Standard Schnauzer",standard-schnauzer,medium,13,sa,buy,puppy,4670.00,2215.10,31251.20
+"Standard Schnauzer",standard-schnauzer,medium,13,wa,buy,puppy,4714.90,2160.00,30634.90
+"Standard Schnauzer",standard-schnauzer,medium,13,tas,buy,puppy,4679.90,2223.00,31355.90
+"Standard Schnauzer",standard-schnauzer,medium,13,nt,buy,puppy,4679.90,2196.00,31031.90
+"Standard Schnauzer",standard-schnauzer,medium,13,act,buy,puppy,4746.45,2160.00,30666.45
+"Tibetan Spaniel",tibetan-spaniel,small,15.2,nsw,buy,puppy,4698.90,2160.00,35370.90
+"Tibetan Spaniel",tibetan-spaniel,small,15.2,vic,buy,puppy,4677.90,2223.00,36244.50
+"Tibetan Spaniel",tibetan-spaniel,small,15.2,qld,buy,puppy,4663.40,2224.55,36252.01
+"Tibetan Spaniel",tibetan-spaniel,small,15.2,sa,buy,puppy,4670.00,2215.10,36124.42
+"Tibetan Spaniel",tibetan-spaniel,small,15.2,wa,buy,puppy,4714.90,2160.00,35386.90
+"Tibetan Spaniel",tibetan-spaniel,small,15.2,tas,buy,puppy,4679.90,2223.00,36246.50
+"Tibetan Spaniel",tibetan-spaniel,small,15.2,nt,buy,puppy,4679.90,2196.00,35863.10
+"Tibetan Spaniel",tibetan-spaniel,small,15.2,act,buy,puppy,4746.45,2160.00,35418.45
+"Toy Poodle",toy-poodle,small,14,nsw,buy,puppy,4698.90,2160.00,32778.90
+"Toy Poodle",toy-poodle,small,14,vic,buy,puppy,4677.90,2223.00,33576.90
+"Toy Poodle",toy-poodle,small,14,qld,buy,puppy,4663.40,2224.55,33582.55
+"Toy Poodle",toy-poodle,small,14,sa,buy,puppy,4670.00,2215.10,33466.30
+"Toy Poodle",toy-poodle,small,14,wa,buy,puppy,4714.90,2160.00,32794.90
+"Toy Poodle",toy-poodle,small,14,tas,buy,puppy,4679.90,2223.00,33578.90
+"Toy Poodle",toy-poodle,small,14,nt,buy,puppy,4679.90,2196.00,33227.90
+"Toy Poodle",toy-poodle,small,14,act,buy,puppy,4746.45,2160.00,32826.45
+"Vizsla",vizsla,medium,13.5,nsw,buy,puppy,4848.90,2160.00,31848.90
+"Vizsla",vizsla,medium,13.5,vic,buy,puppy,4827.90,2223.00,32615.40
+"Vizsla",vizsla,medium,13.5,qld,buy,puppy,4813.40,2224.55,32620.28
+"Vizsla",vizsla,medium,13.5,sa,buy,puppy,4820.00,2215.10,32508.75
+"Vizsla",vizsla,medium,13.5,wa,buy,puppy,4864.90,2160.00,31864.90
+"Vizsla",vizsla,medium,13.5,tas,buy,puppy,4829.90,2223.00,32617.40
+"Vizsla",vizsla,medium,13.5,nt,buy,puppy,4829.90,2196.00,32279.90
+"Vizsla",vizsla,medium,13.5,act,buy,puppy,4896.45,2160.00,31896.45
+"Weimaraner",weimaraner,large,12.8,nsw,buy,puppy,4848.90,2160.00,30336.90
+"Weimaraner",weimaraner,large,12.8,vic,buy,puppy,4827.90,2223.00,31059.30
+"Weimaraner",weimaraner,large,12.8,qld,buy,puppy,4813.40,2224.55,31063.09
+"Weimaraner",weimaraner,large,12.8,sa,buy,puppy,4820.00,2215.10,30958.18
+"Weimaraner",weimaraner,large,12.8,wa,buy,puppy,4864.90,2160.00,30352.90
+"Weimaraner",weimaraner,large,12.8,tas,buy,puppy,4829.90,2223.00,31061.30
+"Weimaraner",weimaraner,large,12.8,nt,buy,puppy,4829.90,2196.00,30742.70
+"Weimaraner",weimaraner,large,12.8,act,buy,puppy,4896.45,2160.00,30384.45
+"Welsh Terrier",welsh-terrier,small,13.8,nsw,buy,puppy,4698.90,2160.00,32346.90
+"Welsh Terrier",welsh-terrier,small,13.8,vic,buy,puppy,4677.90,2223.00,33132.30
+"Welsh Terrier",welsh-terrier,small,13.8,qld,buy,puppy,4663.40,2224.55,33137.64
+"Welsh Terrier",welsh-terrier,small,13.8,sa,buy,puppy,4670.00,2215.10,33023.28
+"Welsh Terrier",welsh-terrier,small,13.8,wa,buy,puppy,4714.90,2160.00,32362.90
+"Welsh Terrier",welsh-terrier,small,13.8,tas,buy,puppy,4679.90,2223.00,33134.30
+"Welsh Terrier",welsh-terrier,small,13.8,nt,buy,puppy,4679.90,2196.00,32788.70
+"Welsh Terrier",welsh-terrier,small,13.8,act,buy,puppy,4746.45,2160.00,32394.45
+"West Highland White Terrier",west-highland-white-terrier,small,13.4,nsw,buy,puppy,4698.90,2160.00,31482.90
+"West Highland White Terrier",west-highland-white-terrier,small,13.4,vic,buy,puppy,4677.90,2223.00,32243.10
+"West Highland White Terrier",west-highland-white-terrier,small,13.4,qld,buy,puppy,4663.40,2224.55,32247.82
+"West Highland White Terrier",west-highland-white-terrier,small,13.4,sa,buy,puppy,4670.00,2215.10,32137.24
+"West Highland White Terrier",west-highland-white-terrier,small,13.4,wa,buy,puppy,4714.90,2160.00,31498.90
+"West Highland White Terrier",west-highland-white-terrier,small,13.4,tas,buy,puppy,4679.90,2223.00,32245.10
+"West Highland White Terrier",west-highland-white-terrier,small,13.4,nt,buy,puppy,4679.90,2196.00,31910.30
+"West Highland White Terrier",west-highland-white-terrier,small,13.4,act,buy,puppy,4746.45,2160.00,31530.45
+"Whippet",whippet,medium,13.4,nsw,buy,puppy,4698.90,2160.00,31482.90
+"Whippet",whippet,medium,13.4,vic,buy,puppy,4677.90,2223.00,32243.10
+"Whippet",whippet,medium,13.4,qld,buy,puppy,4663.40,2224.55,32247.82
+"Whippet",whippet,medium,13.4,sa,buy,puppy,4670.00,2215.10,32137.24
+"Whippet",whippet,medium,13.4,wa,buy,puppy,4714.90,2160.00,31498.90
+"Whippet",whippet,medium,13.4,tas,buy,puppy,4679.90,2223.00,32245.10
+"Whippet",whippet,medium,13.4,nt,buy,puppy,4679.90,2196.00,31910.30
+"Whippet",whippet,medium,13.4,act,buy,puppy,4746.45,2160.00,31530.45
+"White Swiss Shepherd",white-swiss-shepherd,large,11.9,nsw,buy,puppy,4848.90,2160.00,28392.90
+"White Swiss Shepherd",white-swiss-shepherd,large,11.9,vic,buy,puppy,4827.90,2223.00,29058.60
+"White Swiss Shepherd",white-swiss-shepherd,large,11.9,qld,buy,puppy,4813.40,2224.55,29061.00
+"White Swiss Shepherd",white-swiss-shepherd,large,11.9,sa,buy,puppy,4820.00,2215.10,28964.59
+"White Swiss Shepherd",white-swiss-shepherd,large,11.9,wa,buy,puppy,4864.90,2160.00,28408.90
+"White Swiss Shepherd",white-swiss-shepherd,large,11.9,tas,buy,puppy,4829.90,2223.00,29060.60
+"White Swiss Shepherd",white-swiss-shepherd,large,11.9,nt,buy,puppy,4829.90,2196.00,28766.30
+"White Swiss Shepherd",white-swiss-shepherd,large,11.9,act,buy,puppy,4896.45,2160.00,28440.45
+"Yorkshire Terrier",yorkshire-terrier,small,13.3,nsw,buy,puppy,4698.90,2160.00,31266.90
+"Yorkshire Terrier",yorkshire-terrier,small,13.3,vic,buy,puppy,4677.90,2223.00,32020.80
+"Yorkshire Terrier",yorkshire-terrier,small,13.3,qld,buy,puppy,4663.40,2224.55,32025.37
+"Yorkshire Terrier",yorkshire-terrier,small,13.3,sa,buy,puppy,4670.00,2215.10,31915.73
+"Yorkshire Terrier",yorkshire-terrier,small,13.3,wa,buy,puppy,4714.90,2160.00,31282.90
+"Yorkshire Terrier",yorkshire-terrier,small,13.3,tas,buy,puppy,4679.90,2223.00,32022.80
+"Yorkshire Terrier",yorkshire-terrier,small,13.3,nt,buy,puppy,4679.90,2196.00,31690.70
+"Yorkshire Terrier",yorkshire-terrier,small,13.3,act,buy,puppy,4746.45,2160.00,31314.45
