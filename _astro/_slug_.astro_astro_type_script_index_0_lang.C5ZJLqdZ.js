@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./status-dom.c8r8ylRQ.js";var n=document.getElementById(`council-payload`);if(n?.textContent){let r=JSON.parse(n.textContent);for(let n of r){let r=document.querySelector(`[data-status-slug="${n.slug}"]`);r&&e(r,t(n))}}
